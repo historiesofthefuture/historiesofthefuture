@@ -397,6 +397,26 @@ vertical-align: super;
 	list-style-type: decimal;
 }
 
+
+/************************************/
+/************  THEMES  **************/
+/************************************/
+
+.themes h1{
+	font-family: 'Oswald', cursive; 
+	font-size: 30pt;
+	padding:0 0 .2em 0;
+	border-bottom: 2px dashed gray;
+	color:#333;
+	margin-top:1em;
+
+}
+
+.themes h2 {
+font-size: 16pt;
+line-height: 1.4em;
+}
+
 /************************************/
 /************  PEOPLE  **************/
 /************************************/
