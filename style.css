@@ -179,8 +179,10 @@ h1.three {
 }
 
 .middle {
-background-color: #A8879A;
-font-size:160%;	
+background-color: #C6A8BB;
+font-size:160%;
+border-top: 3px solid gray;	
+border-bottom: 3px solid gray;	
 }
 
 
@@ -202,7 +204,7 @@ margin-bottom:2em;
 }
 
 .container {
-width:55em;
+width:1000px;
 margin:0 auto 0 auto;
 }
 
@@ -402,8 +404,12 @@ vertical-align: super;
 /************  THEMES  **************/
 /************************************/
 
+.themes p {
+	margin-bottom:2em;
+}
+
 .themes h1{
-	font-family: 'Oswald', cursive; 
+	font-family: 'Audiowide', cursive; 
 	font-size: 30pt;
 	padding:0 0 .2em 0;
 	border-bottom: 2px dashed gray;
@@ -413,9 +419,64 @@ vertical-align: super;
 }
 
 .themes h2 {
-font-size: 16pt;
+font-size: 14pt;
 line-height: 1.4em;
+font-family: 'Open Sans', cursive;
+text-transform: uppercase; 
 }
+
+
+.themes .essay_blk_container {
+width:23%;
+float:left;
+clear:none;
+margin-right:.5em;
+min-height: 500px;
+}
+
+
+.themes .essay_blk_container h2 {
+font-family: 'Oswald';
+text-transform: none;
+font-size: 100%;
+padding-left:.5em;
+margin-bottom: .4em;
+}
+
+.themes .essay_blk_container h3 {
+font-size: 80%;	
+font-family: 'Open Sans';
+padding-left:.5em;
+line-height: 1.2em;
+}
+
+
+.themes .essay_blk_container h4 {
+text-align: right;
+font-size: 85%;	
+font-family: 'Open Sans';
+padding-left:.5em;
+margin: -1.5em .2em .2em 0;
+font-style: italic;
+color:#8E6A78;
+
+}
+
+.themes img.essay_blk_image {
+	width:100%;
+	height:200px;
+	margin:0;
+	padding:0 0 .5em 0;
+}
+
+.themes .essay_blk_text {
+font-size: 11pt;
+line-height: 1.4em;
+font-family: 'Open Sans', serif;
+margin: 1em .2em 1em .5em;
+text-align: left;
+}
+
 
 /************************************/
 /************  PEOPLE  **************/
@@ -451,17 +512,17 @@ line-height: 1.5em;
 .people img {
 	width: 250px;
 	float:left;
-	margin-right: 2em;
+	margin-right: 1em;
 	max-height: 600px;
 }
 
 .person-block {
 width:1000px;
-margin-top: 3em;
+margin-top: 1em;
 clear: both;
 float:left;
-padding: 2em 0 5em 0;
-border-bottom: 1px dotted gray;
+padding: 2em 0 3em 0;
+border-bottom: 3px solid gray;
 }
 
 
