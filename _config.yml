@@ -1,0 +1,6 @@
+name: Histories of the Future
+description: Histories of the Future
+safe: true
+markdown: kramdown
+kramdown: 
+  parse_block_html: true

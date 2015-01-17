@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+{% include header.html %} 
+
+<body>
+
+<script>
+$( document ).ready(function() {
+    $( ".footnotes li" ).addClass( "footnote" );
+    $.bigfoot();
+});
+</script>
+
+
+<div class="essay_container">
+	<h1> {{ page.title }} </h1>
+	<h2> {{ page.subtitle }} </h2>
+	<h3> <a href="/people#{{page.author || replace:' ','_'}}">{{ page.author }} </a></h3>
+
+	{{ content }}
+
+	<p class="colophon"><i class="fa fa-rocket"></i></p>
+
+
+	<p class="back"><a href="/essays/"><i class="fa fa-chevron-circle-left"></i>back to essays</a></p>
+
+
+</div> <!-- /container -->
+
+</body>
+</html>
