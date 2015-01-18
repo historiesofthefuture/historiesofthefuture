@@ -15,7 +15,7 @@ Major newspapers from coast to coast described the “eerie commotion”
 that accompanied Bedford’s passing in morbid detail.[^1] After he was
 pronounced dead, an anti-coagulant drug was injected into him while a
 mechanical heart maintained blood flow. Other chemicals followed. After
-six hours, his body, now wrapped in aluminum foil, (FIGURE 1) was placed
+six hours, his body, now wrapped in aluminum foil, was placed
 in dry ice before members of the Cryonics Society of California
 transferred it to a “cryo-capsule” – a giant dewar filled with liquid
 nitrogen fabricated by a Phoenix-based wig-maker – for transfer to
@@ -74,14 +74,14 @@ Khan, aided by a sympathetic, smitten historian, fights to take over the
 this time to an abandoned planet. Khan accepts his fate, seeing it as a
 both a challenge and chance to tame a new world. The superhuman Khan
 would go on to become a popular and profit-generating character for the
-*Star Trek* franchise into the 21^st^ century.
+*Star Trek* franchise into the 21<sup>st</sup> century.
 
 After the publicity following Bedford’s cryonic suspension, new
 organizations sprang up to support the small but growing cryonics
 community. To help make their case, advocates of cryonics cited major
 advances in medicine and technology – space exploration and nascent
 genetic engineering were often given as evidence – that had occurred
-throughout the 20^th^ century. To them, this was evidence that future
+throughout the 20<sup>th</sup> century. To them, this was evidence that future
 technologies would surely offer some means to revive them from their
 preserved state.[^7] A typical arguments advocates deployed followed a
 logic reminiscent of Pascal’s Wager, stating that the benefits of
@@ -141,7 +141,7 @@ researchers developed artificial organs and life support systems, the
 definition of death was subject to reexamination.[^14] In 1968, a legal
 dictionary defined death as “stoppage of the circulation of the blood,
 and a cessation of the animal and vital functions consequent thereon,
-such as respiration, pulsation, etc.”. But this definition was already
+such as respiration, pulsation, etc.” But this definition was already
 under scrutiny by doctors, ethicists, and theologians.[^15] As death
 became redefined less of an event and more as a process, optimists’
 belief in the possibility of cryonics becomes more understandable. As
@@ -221,8 +221,7 @@ separating present and future, actual and possible.
     in Humans,” it is available (as of October 2014) at
     <http://www.lifepact.com/Manrise-IISSH-Manual-1972-17mb.pdf>.
 
-[^11]: Described on Alcor’s website; as of September 2014, available at:
-    http://www.alcor.org/AboutAlcor/index.html .
+[^11]: Described on [Alcor’s website](http://www.alcor.org/AboutAlcor/index.html) (accessed September 2014).
 
 [^12]: David E.H. Jones, “Technical Boundless Optimism,” *Nature,* 1995,
     374, 6525: 835-37.
@@ -241,8 +240,7 @@ separating present and future, actual and possible.
     set of criteria, defined as “brain death.” “Report of the Ad Hoc
     Committee of the Harvard Medical School to examine the definition of
     brain death. A definition of irreversible coma.” *JAMA* 1968; 205:
-    337-40. See also:
-    http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652772/
+    337-40. See also how [The concept of brain death did not evolve to benefit organ transplants](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652772/).
 
 [^16]: A. Michael Aron. “The New Ice Age.” *Los Angeles Times*, 10 June
     1972. This article was focused on the cryo-preservation of a

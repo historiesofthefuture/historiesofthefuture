@@ -1,6 +1,6 @@
 ---
 title: "The Nuclear Novel and Language"
-author: Michael Gordin
+author: Michael D. Gordin
 layout: essay
 slug: languages
 ---
@@ -152,9 +152,7 @@ Bride*](http://books.google.com/books/about/The_Future_Like_a_Bride.html?id=XXvq
 (1957), Peter Bryant’s [*Red
 Alert*](https://books.google.com/books?id=BsQujWhUll0C&dq=bryant+red+alert&hl=en&sa=X&ei=OfmiVJ2NKcKfyATE74CQAw&ved=0CDMQ6AEwAw)
 (1958), Eugene Burdick and Harvey Wheeler’s
-[*Fail-Safe*](#v=onepage&q=fail-safe&f=false) (1962), and William
-Prochnau’s [*Trinity’s
-Child*](http://books.google.com/books/about/Trinity_s_Child.html?id=zd0SDlG-1I0C)
+[*Fail-Safe*](https://books.google.com/books?id=GaYTjuz_1jAC&printsec=frontcover&dq=fail-safe&hl=en&sa=X&ei=WPmiVKOeF4qyyQSN1YKgAw&ved=0CB8Q6AEwAA#v=onepage&q=fail-safe&f=false) (1962), and William Prochnau’s [*Trinity’s Child*](http://books.google.com/books/about/Trinity_s_Child.html?id=zd0SDlG-1I0C)
 (1983).
 
 b\) *Shelter*: Such novels focus on short-term survival in the wake of
@@ -164,15 +162,8 @@ hold together the structures of civilization as those teeter and (often)
 fall — the greatest threat being vigilantes rather than
 radiation-induced birth-defects. Here I would point to Philip Wylie’s
 [*Tomorrow!*](http://www.nebraskapress.unl.edu/product/Tomorrow,674149.aspx)
-(1954) and
-[*Triumph*](http://www.nebraskapress.unl.edu/product/Triumph,673252.aspx)
-(1963), Nevil Shute’s [*On the
-Beach*](#v=onepage&q=on%20the%20beach&f=false) (1957), Pat Frank’s
-[*Alas, Babylon*](#v=onepage&q=alas%20babylon&f=false) (1959), Mordecai
-Roshwald’s [*Level 7*](http://uwpress.wisc.edu/books/3624.htm) (1959),
-and Whitley Strieber and James W. Kunetka’s
-[*Warday*](https://books.google.com/books?id=5__xRIfVzfEC&q=warday+kunetka&dq=warday+kunetka&hl=en&sa=X&ei=rvuiVIScMommyQTi6oGADg&ved=0CB0Q6AEwAA)
-(1985).
+(1954) and [*Triumph*](http://www.nebraskapress.unl.edu/product/Triumph,673252.aspx) (1963), Nevil Shute’s [*On the Beach*](https://books.google.com/books?id=p24G5ZeTfJUC&printsec=frontcover&dq=on+the+beach&hl=en&sa=X&ei=b_miVMT4I4OjyQTqrYDoCw&ved=0CB8Q6AEwAA#v=onepage&q=on%20the%20beach&f=false) (1957), Pat Frank’s [*Alas, Babylon*](https://books.google.com/books?id=Fh9Bi3-09-cC&printsec=frontcover&dq=alas+babylon&hl=en&sa=X&ei=hvmiVIOSMMuoyATC6ICoAw&ved=0CCgQ6AEwAA#v=onepage&q=alas%20babylon&f=false) (1959), Mordecai Roshwald’s [*Level 7*](http://uwpress.wisc.edu/books/3624.htm) (1959),
+and Whitley Strieber and James W. Kunetka’s [*Warday*](https://books.google.com/books?id=5__xRIfVzfEC&q=warday+kunetka&dq=warday+kunetka&hl=en&sa=X&ei=rvuiVIScMommyQTi6oGADg&ved=0CB0Q6AEwAA) (1985).
 
 c\) *Sepia*: Nuclear war is long past, but not forgotten. A few
 generations (say, 25 to 75 years) have gone by, but there are those
@@ -216,8 +207,7 @@ his [*Resurrection
 Day*](http://books.google.com/books/about/Resurrection_Day.html?id=7rxXNWIERBEC)
 (1999) in the temporal aftermath of Shelter novels but the book is
 structurally a Flashpoint narrative. And although William Golding’s
-classic [*The Lord of the
-Flies*](#v=onepage&q=lord%20of%20the%20flies&f=false) (1954) takes place
+classic [*The Lord of the Flies*](https://books.google.com/books?id=2wNNMdkaB34C&printsec=frontcover&dq=lord+of+the+flies&hl=en) (1954) takes place
 in the immediate aftermath of a nuclear war, his protagonists being
 children shifts the story closer into Sepia in terms of genre.
 Nonetheless the general pattern is useful. In the essays that follow, I

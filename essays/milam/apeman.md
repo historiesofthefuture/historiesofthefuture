@@ -204,39 +204,26 @@ a monstrous potential future.
     1961), 590-592, published in the same issue as Leakey’s announcement
     of 1,750,000 year-old *Zinjanthropus* (now, *Paranthropus boisei*).
 
-[^3]: Charles Osgood, [*An Alternative to War and
-    Surrender*](styles.xml) (Urbana: University of Illinois Press,
+[^3]: Charles Osgood, [*An Alternative to War and Surrender*](http://www.worldcat.org/title/alternative-to-war-or-surrender/oclc/185922) (Urbana: University of Illinois Press,
     1962). For a fuller exploration of GRIT, see Paul Erickson, Judy L.
     Klein, Lorraine Daston, Rebecca Lemov, Thomas Sturm, and Michael D.
-    Gordin, [*How Reason Lost Its Mind*](stylesWithEffects.xml)*: The
-    Strange Career of Cold War Rationality* (Chicago: University of
-    Chicago Press, 2013).
+    Gordin, [*How Reason Almost Lost Its Mind*](http://books.google.com/books?id=-b0BAgAAQBAJ)*: The
+    Strange Career of Cold War Rationality* (Chicago: University of Chicago Press, 2013).
 
-[^4]: Konrad Lorenz, [*On Aggression*](settings.xml), translated by
+[^4]: Konrad Lorenz, [*On Aggression*](http://books.google.com/books?id=rxSjKHkZvQ0C), translated by
     Marjorie Kerr (New York: Harcourt, Brace & World, 1966). On Lorenz’s
     variable use of animal metaphors in his writings, see Tania Munz,
-    “[‘My Goose Child Martina’: The Multiple Uses of Geese in the
-    Writings of Konrad Lorenz](webSettings.xml),” *Historical Studies in
-    the Natural Sciences* 41/4 (2011): 405-446.
+    “[‘My Goose Child Martina’: The Multiple Uses of Geese in the Writings of Konrad Lorenz](http://www.jstor.org/discover/10.1525/hsns.2011.41.4.405),” *Historical Studies in the Natural Sciences* 41/4 (2011): 405-446.
 
-[^5]: Marlene Zuk, [*Paleofantasy: What Evolution Really Tells Us About
-    Sex, Diet, and How We Live*](footnotes.xml) (NY: Norton, 2013).
+[^5]: Marlene Zuk, [*Paleofantasy: What Evolution Really Tells Us About Sex, Diet, and How We Live*](http://books.google.com/books?id=OzyYc5n13scC) (NY: Norton, 2013).
 
-[^6]: George Orwell, [*1984*](endnotes.xml) (New York: Plume, 1983
-    [1949]), 32.
+[^6]: George Orwell, [*1984*](http://www.worldcat.org/title/1984-a-novel/oclc/62259482) (New York: Plume, 1983 [1949]), 32.
 
-[^7]: George Gaylord Simpson, [*Meaning of Evolution: A Study of the
-    History of Life and of Its Significance for
-    Man*](https://www.youtube.com/watch?v=ML1OZCHixR0) (New Haven: Yale
-    University Press, 1949), 337.
+[^7]: George Gaylord Simpson, [*Meaning of Evolution: A Study of the History of Life and of Its Significance for Man*](http://www.worldcat.org/title/meaning-of-evolution-a-study-of-the-history-of-life-and-of-its-significance-for-man/oclc/1005731) (New Haven: Yale University Press, 1949), 337.
 
-[^8]: Theodosius Dobzhansky, [*The Biological Basis of Human
-    Freedom*](http://www.smithsonianmag.com/science-nature/whats-in-a-name-hominid-versus-hominin-216054/)
-    (New York: Columbia University Press, 1956), 107.
+[^8]: Theodosius Dobzhansky, [*The Biological Basis of Human Freedom*](http://www.worldcat.org/title/biological-basis-of-human-freedom/oclc/171164) (New York: Columbia University Press, 1956), 107.
 
-[^9]: Leon Stover and Harry Harrison, ed. [*Apeman,
-    Spaceman*](http://humanorigins.si.edu/evidence/human-family-tree)
-    (New York: Doubleday & Company, Inc., 1968).
+[^9]: Leon Stover and Harry Harrison, ed. [*Apeman, Spaceman*](http://www.worldcat.org/title/apeman-spaceman/oclc/15288853) (New York: Doubleday & Company, Inc., 1968).
 
 [^10]: Osgood, *An Alternative to War and Surrender*, 19.
 

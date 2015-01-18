@@ -274,17 +274,15 @@ thought but seemed, in this case, to elude them.
 [^1]: Gina Kolata, “Computer Math Proof Shows Reasoning Power,” *New
     York Times* (December 10, 1996).
 
-[^2]: The program was developed primarily by William McCune, under the
-    directorship of Lawrence Wos within the Applied Mathematics division
-    at the Argonne National Laboratory:
-    [https://www.cs.unm.edu/\~mccune/eqp/](numbering.xml).
+[^2]: The program was developed primarily by [William McCune](https://www.cs.unm.edu/~mccune/eqp/), under the directorship of Lawrence Wos within the Applied Mathematics division at the Argonne National Laboratory.
+    
 
 [^3]: Kolata, “Computer Math Proof.” The phrase “reasoning power” is
     attributed to Wos.
 
 [^4]: See, for example, Lawrence Wos, “Solving Open Questions with an
-    Automated Theorem-Proving Program” in *6^th^ Conference on Automated
-    Deduction* [*Lecture Notes in Computer Science*, Vol. 138] (1982),
+    Automated Theorem-Proving Program” in *6<sup>th</sup> Conference on Automated
+    Deduction* \[*Lecture Notes in Computer Science*, Vol. 138\] (1982),
     1-31.
 
 [^5]: William McCune, “Solution of the Robbins Problem,” in *Journal of
@@ -340,8 +338,7 @@ thought but seemed, in this case, to elude them.
     quote on 6.
 
 [^18]: McCune’s presentation of the result and the proof are available
-    in “Robbins Algebras are Boolean” (2006 [1996]):
-    [https://www.cs.unm.edu/\~mccune/papers/robbins/](stylesWithEffects.xml).
+    in “[Robbins Algebras are Boolean](https://www.cs.unm.edu/~mccune/papers/robbins/)” (2006 [1996]).
 
 [^19]: The core lemmas of the proof were proved in about 5 seconds and
     2319 seconds respectively. See McCune, “Solution of the Robbins

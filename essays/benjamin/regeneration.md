@@ -200,7 +200,7 @@ yours, forget about being treated. And if you couldn’t afford a test,
 you were just out of luck.
 
 We are still trying to figure out what to do with all those abandoned
-testing stations.10
+testing stations.<sup>10</sup>
 
 <img src="Benjamin-4.jpg"/>
 
@@ -242,7 +242,7 @@ monthly payment to keep a cell line alive was manageable.
 
 Aiyana Mo’Nay Stanley Jones, killed by a Detroit SWAT Team in 2010, was
 the only person who survived cryosleep and transplants without any
-significant side effects. 13
+significant side effects. <sup>13</sup>
 
 
 <img src="Benjamin-5.jpg"/>

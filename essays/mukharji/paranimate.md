@@ -31,10 +31,9 @@ social space with humans and interacted with them in various ways. They
 also provided different types of links with the past. Much of this would
 be familiar to folklorists, students of religion and cultural
 historians. But what is seldom noted and yet quite remarkable is just
-how central the undead were to the key projects of 19^th^ century
+how central the undead were to the key projects of 19<sup>th</sup> century
 Bengali modernity. The very first textbook of Bengali prose, written by
-[Iswarchandra
-Vidyasagar](http://harvardmagazine.com/2014/05/vita-ishvarchandra-vidyasagar)—educator,
+[Iswarchandra Vidyasagar](http://harvardmagazine.com/2014/05/vita-ishvarchandra-vidyasagar)—educator,
 social reformer, erudite scholar and one of the founding fathers of
 modern South Asia—featured a cycle of tales narrated by a paranimate.
 The textbook, *Betal Panchabinshati* [Twenty Five Tales of the *Betal*]
@@ -44,7 +43,7 @@ Sarkar’s *Vyavyasthya Darpan: A Digest of Hindu Law as Current in
 Bengal* (1859) also invoked *pishacha* lore in discussing the law of
 marriages, inheritance and adoption.
 
-What do these undead beings want and why are they so plentiful in 19^th^
+What do these undead beings want and why are they so plentiful in 19<sup>th</sup>
 century Bengal? A lengthy poem by an unknown Bengali poet, Nabinchandra
 Das (there is a better-known poet of the same name slightly later, but
 this is not him), written in an idiom that tries too hard to be polished
@@ -57,12 +56,12 @@ Plassey](https://www.sscnet.ucla.edu/southasia/History/British/Plassey.html).
 It would be too distracting for us to go into the fascinating details,
 judgements and histories that were shared by the *Pishach* and the
 *Betal* on that fateful day, but that such a conversation took place
-testifies to the place and function of the undead in 19^th^ century
+testifies to the place and function of the undead in 19<sup>th</sup> century
 Bengal. They were not simply ghosts, like Hamlet’s father, looking for
 someone else to settle their unsettled scores for them. No. These were
 pasts that lived on. That refused to die. But were yet, neither fully
 alive nor fully embraced by human society. Even as colonial modernity
-worked out the precise line dividing [*zoe* from *bios*](#H3) at
+worked out the precise line dividing [*zoe* from *bios*](http://www.iep.utm.edu/agamben/#H3) at
 Plassey*,* on its margins—beyond both *zoe* and *bios*—there sat the
 undead: thinking, talking, judging and living a parallel form of life.
 This is paranimacy, i.e. para-animacy. Forms of life that run parallel
@@ -79,7 +78,7 @@ neo-traditionalist agendas. They become, like the stuffed beasts of the
 taxonomist, mere ciphers in a museum devoted to the image of an ossified
 and purified ‘tradition’. The conversation on the fringes of Plassey on
 the other hand happened between two paranimate beings. The Pishacha of
-Plassey denounced the rampant casteism of 19^th^ century Bengali society
+Plassey denounced the rampant casteism of 19<sup>th</sup> century Bengali society
 at length. He linked the defeat at Plassey to the sins committed through
 numerous everyday acts of gendered violence and most emblematically the
 horrible custom of widow-burning (*Sati*). Finally, he recounted a
@@ -165,7 +164,7 @@ at the instant when it can be recognized and is never seen again.”
     783.
 
 [^3]: For a great discussion on *Vetalas* and *Pisacas* (as they are
-    called in classical Sanskrit) see, [Justin McDaniel](styles.xml).
+    called in classical Sanskrit) see, [Justin McDaniel](http://kyotoreview.org/issue-12/encountering-corpses-notes-on-zombies-and-the-living-dead-in-buddhist-southeast-asia/).
 
 [^4]: Nabinchandra Das, *Pishachoddhar* (Calcutta: Iswarchandra Basu,
     1863).
@@ -173,5 +172,5 @@ at the instant when it can be recognized and is never seen again.”
 [^5]: James A Dator, *Social Foundations of Human Space Exploration*
     (New York: Springer, 2012), 9. An identical claim by Sukanya Datta
     in the journal *Science & Culture* is available
-    [here](stylesWithEffects.xml).
+    [here](http://www.scienceandculture-isna.org/july_aug_12/06%20Sukanya%20Datta/06%20Sukanya%20Datta.htm).
 

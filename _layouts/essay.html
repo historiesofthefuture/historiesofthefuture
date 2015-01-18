@@ -9,7 +9,11 @@
 $( document ).ready(function() {
     $( ".footnotes li" ).addClass( "footnote" );
     $.bigfoot();
+
+    // convert links within essays to open new tab
+  	$('.essay_container .content a').attr('target', '_blank');
 });
+
 </script>
 
 
@@ -17,8 +21,10 @@ $( document ).ready(function() {
 	<h1> {{ page.title }} </h1>
 	<h2> {{ page.subtitle }} </h2>
 	<h3> <a href="/people#{{page.author || replace:' ','_'}}">{{ page.author }} </a></h3>
-
+	
+	<div class="content">
 	{{ content }}
+	</div>
 
 	<p class="colophon"><i class="fa fa-rocket"></i></p>
 
