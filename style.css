@@ -39,7 +39,7 @@ body {
 	background-color: #EDE5DD;
 	background-color: #efefef;
 	background-color:#E8EBEA;
-
+	font-size: 100%;
 }
 ol, ul {
 	list-style: none;
@@ -143,9 +143,7 @@ text-decoration: none;
 color: #EFEBE6;
 }
 
-
 .home_header, .header-logistics {
-font-size: 52pt;
 text-align: center;
 background-color: #6C859A;
 color: #EFEBE6;
@@ -154,25 +152,23 @@ margin-top:-40px;
 }
 
 h1.one {
-font-size: 96pt;
+font-size: 600%;
 font-family: 'Bangers', cursive;
 letter-spacing: .08em;
 }
 
 h1.two {
-font-size: 14pt;
+font-size: 80%;
 font-family: 'Open Sans', cursive;
 }
 
 h1.three {
-	font-size: 96pt;
+	font-size: 600%;
 	font-family: 'Audiowide', cursive; 
 }
 
-
 .home_container {
 	margin:0 auto 0 auto;
-	font-size: 16pt;
 }
 
 .top  {
@@ -180,18 +176,14 @@ h1.three {
 
 .middle {
 background-color: #C6A8BB;
-font-size:160%;
+font-size:120%;
 border-top: 3px solid gray;	
 border-bottom: 3px solid gray;	
 }
 
-
 .bottom {
-bbackground-color: #D8E5D6;
 margin-bottom:2em;
 }
-
-
 
 .home_container p {
 	line-height: 1.6em;
@@ -204,7 +196,7 @@ margin-bottom:2em;
 }
 
 .container {
-width:1000px;
+max-width:1000px;
 margin:0 auto 0 auto;
 }
 
@@ -227,12 +219,12 @@ color: white;
 
 .essays {
 	margin: 0 auto 0 auto;
-	width:800px;
+	max-width:800px;
 }
 
 .author_heading {
 	font-family: 'Audiowide', cursive; 
-	font-size: 20pt;
+	font-size: 160%;
 	text-transform: uppercase;
 	padding: .5em .5em .1em 0em;
 	border-bottom: 5px solid #ADC0C7;
@@ -248,7 +240,7 @@ color: white;
 	padding:0em;
 	margin: 1em auto 4em 0;
 	clear:both;
-	width:800px;
+	width:80%;
 	border:1px dotted gray;
 	min-height: 300px;
 	background: #E8EBEA;
@@ -266,7 +258,7 @@ color: white;
 }
 
 .essay_blk_container h2 {
-	font-size: 22pt;
+	font-size: 160%;
 	line-height: 1.5em;
 	font-family: 'Oswald', serif;
 	margin: .2em 2em .2em 0em;
@@ -274,7 +266,7 @@ color: white;
 
 
 .essay_blk_container h3 {
-	font-size: 14pt;
+	font-size: 140%;
 	line-height: 1.5em;
 	font-family: 'Oswald', serif;
 	margin: 0em 2em .5em 0em;
@@ -282,7 +274,7 @@ color: white;
 
 .essay_blk_container h4 {
 font-family: 'Gentium Book Basic', serif;
-font-size: 12pt;
+font-size: 90%;
 margin: 1em 2em .5em 0em;
 }
 
@@ -294,7 +286,7 @@ margin: 1em 2em .5em 0em;
 }
 
 .essay_blk_text {
-	font-size: 12pt;
+	font-size: 90%;
 	line-height: 1.4em;
 	font-family: 'Open Sans', serif;
 	margin: 1em 6em 1em 1em;
@@ -313,9 +305,9 @@ em {
 .essay_container {
 font-family: 'Merriweather', serif;
 color: #1e1916;
-font-size: 15pt;
 margin: 2em auto 2em auto;
-width:40em;
+max-width:40em;
+font-size: 110%;
 }
 
 .essay_container p {
@@ -327,7 +319,7 @@ color: #333;
 
 .essay_container h1 {
 font-family: 'Oswald', serif;
-font-size: 42pt;
+font-size: 300%%;
 text-align: center;
 margin-bottom: .3em;	
 }
@@ -335,14 +327,14 @@ margin-bottom: .3em;
 
 .essay_container h2 {
 font-family: 'Open Sans', serif;
-font-size: 18pt;
+font-size: 120%;
 text-align: center;
 }
 
 
 .essay_container h3 {
 font-family: 'Gentium Book Basic', serif;
-font-size: 18pt;
+font-size: 110%;
 text-align: center;	
 margin-bottom: 3em;
 margin-top: 1.5em;
@@ -354,7 +346,7 @@ text-transform: uppercase;
 	display: block;
 	margin: 1em auto .5em auto;
 	text-align: center;
-	max-width: 800px;
+	max-width: 40em;
 }
 
 .essay_container sup {
@@ -410,7 +402,7 @@ vertical-align: super;
 
 .themes h1{
 	font-family: 'Audiowide', cursive; 
-	font-size: 30pt;
+	font-size: 250%;
 	padding:0 0 .2em 0;
 	border-bottom: 2px dashed gray;
 	color:#333;
@@ -419,7 +411,7 @@ vertical-align: super;
 }
 
 .themes h2 {
-font-size: 14pt;
+	font-size: 120%;
 line-height: 1.4em;
 font-family: 'Open Sans', cursive;
 text-transform: uppercase; 
@@ -470,7 +462,7 @@ color:#8E6A78;
 }
 
 .themes .essay_blk_text {
-font-size: 11pt;
+font-size: 90%;
 line-height: 1.4em;
 font-family: 'Open Sans', serif;
 margin: 1em .2em 1em .5em;
@@ -482,8 +474,14 @@ text-align: left;
 /************  PEOPLE  **************/
 /************************************/
 
+.container .people {
+
+}
+
 .people {
 	font-family: 'Open Sans', serif;
+	margin: 1em auto 0 auto;
+	width:1000px;
 }
 
 .people a{
@@ -495,7 +493,7 @@ text-align: left;
 }
 
 .people h1{
-font-size: 32pt;
+font-size: 200%;
 margin-right:.5em;
 display: inline-block;
 font-family: 'audiowide';
@@ -517,8 +515,6 @@ line-height: 1.5em;
 }
 
 .person-block {
-width:1000px;
-margin-top: 1em;
 clear: both;
 float:left;
 padding: 2em 0 3em 0;
@@ -532,7 +528,7 @@ border-bottom: 3px solid gray;
 
 .date {
 	font-family: 'Audiowide', cursive;
-	font-size: 38pt;
+	font-size: 200%;
 	text-transform: uppercase;
 	padding: .5em 0 .1em 0;
 	color:#8E6A78;
@@ -558,7 +554,7 @@ width:800px;
 
 .logistics h1{
 	font-family: 'Oswald', cursive; 
-	font-size: 30pt;
+	font-size: 200%;
 	padding:.2em;
 	border-bottom: 2px dashed gray;
 	color:#333;
@@ -568,7 +564,7 @@ width:800px;
 
 .logistics h1.chair{
 	font-family: 'Oswald', cursive; 
-	font-size: 12pt;
+	font-size: 90%;
 	padding:.3em;
 	color:#333;
 	text-align: right;
@@ -577,7 +573,7 @@ width:800px;
 }
 
 .logistics h2{
-	font-size: 24pt;
+	font-size: 150%;
 	font-family: 'Oswald', cursive; 
 	padding:1em 0 .3em 1.3em;
 	border-bottom: 1px dotted gray;
@@ -586,7 +582,6 @@ width:800px;
 }
 
 .logistics h3{
-	font-size: 15pt;
 	padding: 1em 0 1em 14px;
 	text-transform: uppercase;
 	border-bottom: 1px dotted gray;
@@ -595,7 +590,7 @@ width:800px;
 }
 
 .logistics h4{
-	font-size: 15pt;
+	font-size: 110%;
 	padding: 1em 0 0em 14px;
 	line-height: 1.2em;
 	font-style: italic;
