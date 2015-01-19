@@ -81,13 +81,14 @@ actualization. In other words, they are fictions that become the
 conditions of possibility, the *enabling contexts* for discovery and
 innovation.
 
-<img src="Milburn-Galaxy.jpg">
+![](Milburn-Galaxy.jpg)
 
-<p class="caption">Cover of *Galaxy Science Fiction*, February
-1954.</p>
+<figcaption>
+Cover of *Galaxy Science Fiction*, February 1954. (source: [Galactic Central](http://philsp.com/data/images/g/galaxy_uk_195407_n16.jpg))
+</figcaption>
 
 
-Reading the Future
+**Reading the Future**
 
 Blish’s text unfolds as a story within a story. The framing narrative
 focuses on the governmental organization known as the Service,
@@ -203,8 +204,7 @@ its crucial role for the advancement of science and society.
 <img src="Milburn-Spirals.jpg">
 
 <p class="caption">
-As traces of things to come spiral into the present, time travelers and alien laughter from the outer limits converge on the scene of “reading the future.” Illustration from James
-Blish, “Beep,” *Galaxy Science Fiction *(February 1954): 58.
+As traces of things to come spiral into the present, time travelers and alien laughter from the outer limits converge on the scene of “reading the future.” Illustration from James Blish, “Beep,” *Galaxy Science Fiction* (February 1954): 58.
 </p>
 
 Promethean Projections
