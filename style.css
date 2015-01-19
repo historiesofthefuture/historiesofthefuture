@@ -415,10 +415,10 @@ text-transform: uppercase;
 
 
 .themes .essay_blk_container {
-width:23%;
+width:230px;
 float:left;
 clear:none;
-margin-right:.5em;
+margin-right:6px;
 min-height: 500px;
 }
 
