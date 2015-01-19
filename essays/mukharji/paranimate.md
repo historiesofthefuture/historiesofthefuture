@@ -1,6 +1,6 @@
 ---
 title: "Paranimate Science"
-author: PROJIT MUKHARJI
+author: Projit Mukharji
 layout: essay
 slug: paranimate
 ---
@@ -15,6 +15,12 @@ Public Health usually engage their attention and keep them away from
 what Jean and John Comaroff have called the “phantom history” of the
 undead.[^2] Yet when one allows one’s self the liberty of such
 distractions, one cannot fail to observe the swarming undead of the Raj.
+
+![](Mukharji-Indrajal.jpg)
+
+<figcaption>
+An illustration accompanying an undated but published Bengali collection of spells for raising the dead. The illustration is copied from a woodcut published by the English Swedenborgian, Ebenezer Sibly, in 1806. The illustration originally depicted the sixteenth century alchemists, Edward Kelley and John Dee, raising the dead. The Bengali collection makes no reference to any of the English figures, but reproduces their spells and incantations in English. The collection possibly dates from the first decade of the twentieth century.
+</figcaption>
 
 Nowhere were these undead more legion than in British Bengal that formed
 the cornerstone of the empire. The Bengali undead however, were not the
@@ -114,8 +120,7 @@ other cosmologies and ontologies, where animacy is neither an
 exclusively human virtue, nor indeed are humans and nonhumans the only
 two kinds of beings. Learning from Latin American scholars like Eduardo
 Viveiros de Castro, I want to re-think animist ontologies in a way that
-will [challenge the continued ontic hegemony of the
-west](http://culanth.org/fieldsights/462-the-politics-of-ontology-anthropological-positions).
+will [challenge the continued ontic hegemony of the west](http://culanth.org/fieldsights/462-the-politics-of-ontology-anthropological-positions).
 I strongly feel that even seemingly progressive moves such as including
 the nonhuman in histories of science all too frequently work insidiously
 to universalize a western-centric ontology of human/ nonhuman, matter/
@@ -134,8 +139,7 @@ Does it not undermine our most radical hopes that in marginalized,
 radically Othered cosmologies there are intimations of a more equitable
 political ecology? By seeking admissions into a broader church of
 ‘science’ will we not compromise our untranslatable heterodoxy? After
-all, did Jean Baudrillard not show us that the only [radical
-alterity](http://mitpress.mit.edu/books/radical-alterity) is that which
+all, did Jean Baudrillard not show us that the only [radical alterity](http://mitpress.mit.edu/books/radical-alterity) is that which
 cannot be translated into a version of the familiar?
 
 It is this radical alterity that I hope, perhaps impossibly and
@@ -146,8 +150,7 @@ reanimation and the forgotten cosmologies they will evoke, I’ll suggest
 might illuminate not only radically Othered images of science, but also
 locate in these radically Othered images forgotten temporalities that
 eschew the forward-moving linear teleologies of progress and science.
-For as Walter Benjamin [reminds
-us](http://www.sfu.ca/~andrewf/CONCEPT2.html), “the true picture of the
+For as Walter Benjamin [reminds us](http://www.sfu.ca/~andrewf/CONCEPT2.html), “the true picture of the
 past flits by. The past can be seized only as an image which flashes up
 at the instant when it can be recognized and is never seen again.”
 
