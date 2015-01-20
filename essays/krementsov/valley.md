@@ -121,7 +121,7 @@ the *public visibility* and *cultural authority* of science in Bolshevik
 Russia, at the expense of the visibility and authority enjoyed by
 religion and literature during the pre-revolutionary decades.
 
-Part 1. Science in revolutions
+**Part 1. Science in revolutions**
 
 In the 1920s Bolshevik Russia, a newborn, was imbued by what US
 historian Richard Stites has perceptively termed “revolutionary dreams”

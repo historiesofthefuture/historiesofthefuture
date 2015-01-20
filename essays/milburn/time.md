@@ -81,7 +81,7 @@ actualization. In other words, they are fictions that become the
 conditions of possibility, the *enabling contexts* for discovery and
 innovation.
 
-![](Milburn-Galaxy.jpg)
+![](/images/Milburn-Galaxy.jpg)
 
 <figcaption>
 Cover of *Galaxy Science Fiction*, February 1954. (source: [Galactic Central](http://philsp.com/data/images/g/galaxy_uk_195407_n16.jpg))
@@ -201,7 +201,7 @@ a model for the generation of scientific knowledge that does not excise
 science fiction (as Weinbaum once excised the beep), but rather upholds
 its crucial role for the advancement of science and society.
 
-<img src="Milburn-Spirals.jpg">
+<img src="/images/Milburn-Spirals.jpg">
 
 <p class="caption">
 As traces of things to come spiral into the present, time travelers and alien laughter from the outer limits converge on the scene of “reading the future.” Illustration from James Blish, “Beep,” *Galaxy Science Fiction* (February 1954): 58.

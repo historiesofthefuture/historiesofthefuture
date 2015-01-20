@@ -60,7 +60,7 @@ Crichton’s stories are philosophical and polemical, asking time and
 again how it is that humans who struggle understand each other in the
 most banal ways can be so confident in their ability to master nature.
 
-![](Radin-MedSchool.jpg)
+![](/images/Radin-MedSchool.jpg)
 
 <figcaption>
 Crichton at his desk during his time at Harvard Medical School.
@@ -154,7 +154,7 @@ possible—heightening the thrill. The plausibility of his account was
 meant to leave people in a perpetual state of suspense, a nightmare-like
 trance that might not be that different from being awake.
 
-![](Radin-Andromeda.jpg)
+![](/images/Radin-Andromeda.jpg)
 
 <figcaption>
 Screen shot of [Andromeda Strain movie

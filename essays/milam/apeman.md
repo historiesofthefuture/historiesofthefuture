@@ -105,20 +105,16 @@ future of humanity is always in the process of becoming (to paraphrase
 Osgood’s hopeful sentiment from the opening of *An Alternative to War
 and Surrender*).
 
-<img src="Milam-Paleofantasy.jpg"/>
+![](/images/Milam-Paleofantasy.jpg)
 
-<p class="caption">
-When *The Chronicle Review* published an
-excerpt of Marlene Zuk’s *Paleofantasy* (February 22, 2013), they
-chose as their cover image a still of buxom Raquel Welch starring in
-the campy [*One Million Years
-B.C.*](https://www.youtube.com/watch?v=gSYmJur0Npw), released in 1966.
+<figcaption>
+When *The Chronicle Review* published an excerpt of Marlene Zuk’s *Paleofantasy* (February 22, 2013), they chose as their cover image a still of buxom Raquel Welch starring in the campy [*One Million Years B.C.*](https://www.youtube.com/watch?v=gSYmJur0Npw), released in 1966.
 Clad in her fur bikini, she provides a sunny contrast to the
 contemplative, hirsute, and naked “Apeman” on the cover of Leon Stover
 and Harry Harrison’s edited collection of anthropological science
 fiction—*Apeman, Spaceman* (New York: Doubleday & Company, Inc.,
 1968).
-</p>
+</figcaption>
 
 When George Orwell penned his anti-totalitarian dystopia*—Nineteen
 Eighty-Four: A Novel*—he placed the following motto in the hands of the
