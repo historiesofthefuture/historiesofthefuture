@@ -15,7 +15,7 @@ the future requires at least two additional factors: a firm grasp of the
 biological principles currently affecting our survival and reproduction,
 and a sense of when to begin the extrapolation.
 
-In the late 1960s, for example, the chasm between our evolutionary past
+Easier said than done. In the late 1960s, for example, the chasm between our evolutionary past
 and our technological future yawned wide. If the hypothesized [Dawn of
 Man](https://www.youtube.com/watch?v=ML1OZCHixR0) ostensibly represented
 a fundamental transition to a fully human way of life, the dramatic
