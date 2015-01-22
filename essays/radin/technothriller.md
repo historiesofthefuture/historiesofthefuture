@@ -37,7 +37,7 @@ Crichton, born in 1942 in Chicago and raised in Roslyn, NY, himself grew
 big—as an adult he measured 6 foot 9 inches—along with American science.
 But even when he was small, Crichton was an apt pupil of these earlier
 authors’ literary practices. Beginning in the 1960s, he adapted them for
-the primary arenas of late 20^th^ century mainstream American culture—a
+the primary arenas of late 20thp century mainstream American culture—a
 media environment inhabited by blockbuster novels, film, and prime time
 TV. His body of work, which includes major contributions to each of
 those genres, is a rich and deep archive for exploring the production
