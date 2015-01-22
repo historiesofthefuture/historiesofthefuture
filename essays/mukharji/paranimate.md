@@ -10,7 +10,7 @@ Americanists do. But not South Asianists. Favoured by a more fulsome
 textual archive, South Asian historians dwell upon seemingly weightier
 matters. Historians of science in South Asia are even less interested in
 the phantomatic.[^1] Public Health, Foucaultian entanglements of
-*pavoir/savoir*, the global ‘circulation’ of intelligence and even more
+*pouvoir/savoir*, the global ‘circulation’ of intelligence and even more
 Public Health usually engage their attention and keep them away from
 what Jean and John Comaroff have called the “phantom history” of the
 undead.[^2] Yet when one allows one’s self the liberty of such
@@ -76,7 +76,7 @@ to those circumscribed by the
 of empire.
 
 Paranimates, it is worth noting, are nothing like the ‘living tradition’
-that the Hindu or Muslim right-wing speak off. For them, ironically like
+that the Hindu or Muslim right-wing speak of. For them, ironically like
 the rationalist scholarship in history of science, these paranimates can
 only at best be metaphors not real beings. They can thus be reformatted
 without any reference to their autonomous being and fitted into
@@ -99,7 +99,7 @@ In this colonial world, crowded as it was by paranimacies, it was but
 natural that early Bengali science fiction would also feature
 paranimates. While the Bengali SF tradition dates allegedly from 1857
 when Jagadananda Roy is said to have penned a time travel tale,
-scholarship on it is remarkably thin. What little exists, copies of each
+scholarship on it is remarkably thin. What little exists, copies off each
 other. Indeed the whole issue of Roy’s priority over Wells, based as it
 is on an utter lack of any original research in most cases, has produced
 ludicrous results. James Dator for instance, is one of the more erudite
