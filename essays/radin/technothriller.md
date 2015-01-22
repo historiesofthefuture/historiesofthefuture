@@ -251,7 +251,7 @@ Crichton’s fiction.
     Analysis* 57/2 (Cambridge, MA: Harvard Peabody Museum, 1970).
 
 [^5]: Following Gaston Bachelard, *La materialisme rationel* (Paris:
-    PUF, 1953) and developed with in science studies initially by Donna
+    PUF, 1953) and developed in science studies initially by Donna
     Haraway and Bruno Latour.
 
 [^6]: G.G. Simpson, *The Major Features of Evolution* (New York:
