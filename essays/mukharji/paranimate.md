@@ -76,7 +76,7 @@ to those circumscribed by the
 of empire.
 
 Paranimates, it is worth noting, are nothing like the ‘living tradition’
-that the Hindu or Muslim right-wing speak off. For them, ironically like
+that the Hindu or Muslim right-wing speak of. For them, ironically like
 the rationalist scholarship in history of science, these paranimates can
 only at best be metaphors not real beings. They can thus be reformatted
 without any reference to their autonomous being and fitted into
