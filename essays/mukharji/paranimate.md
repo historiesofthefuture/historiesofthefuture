@@ -10,7 +10,7 @@ Americanists do. But not South Asianists. Favoured by a more fulsome
 textual archive, South Asian historians dwell upon seemingly weightier
 matters. Historians of science in South Asia are even less interested in
 the phantomatic.[^1] Public Health, Foucaultian entanglements of
-*pavoir/savoir*, the global ‘circulation’ of intelligence and even more
+*pouvoir/savoir*, the global ‘circulation’ of intelligence and even more
 Public Health usually engage their attention and keep them away from
 what Jean and John Comaroff have called the “phantom history” of the
 undead.[^2] Yet when one allows one’s self the liberty of such
