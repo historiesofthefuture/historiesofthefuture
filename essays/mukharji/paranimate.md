@@ -99,7 +99,7 @@ In this colonial world, crowded as it was by paranimacies, it was but
 natural that early Bengali science fiction would also feature
 paranimates. While the Bengali SF tradition dates allegedly from 1857
 when Jagadananda Roy is said to have penned a time travel tale,
-scholarship on it is remarkably thin. What little exists, copies of each
+scholarship on it is remarkably thin. What little exists, copies off each
 other. Indeed the whole issue of Roy’s priority over Wells, based as it
 is on an utter lack of any original research in most cases, has produced
 ludicrous results. James Dator for instance, is one of the more erudite
