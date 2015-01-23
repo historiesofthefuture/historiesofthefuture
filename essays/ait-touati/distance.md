@@ -99,17 +99,16 @@ one has, on reading the history of our present, evaluated and analysed through t
 narrative flourish of this imaginary historian, is a strange one: this is fiction, and yet 
 not entirely. The reader is intrigued, worried and amused all at once. 
 
-Having already written a number of important and classic works on the history of science,[^7]  
-Oreskes and Conway explore a new, under-exploited and promising approach for the social 
+Having already written a number of important and classic works on the history of science,[^7] Oreskes and Conway explore a new, under-exploited and promising approach for the social 
 sciences: serious speculation, the distant heir of Lucian’s *spoudogeloion* (seriocomic) 
 or of Plato’s *ludus philosophicus* (serious game). As readers, we smile, but it is a troubled 
 smile.  These are the principal periods of this history of our future:
 
-1988-2093: the Penumbral Age
-2005: bill permitting shale gas exploitation without the supervision of public authorities passes in the United States
-2009: failure of the Copenhagen summit and denial of scientific consensus
-2023: the year of perpetual summer
-2041: unprecedented heatwaves and hunger riots
+1988-2093: the Penumbral Age  
+2005: bill permitting shale gas exploitation without the supervision of public authorities passes in the United States  
+2009: failure of the Copenhagen summit and denial of scientific consensus  
+2023: the year of perpetual summer  
+2041: unprecedented heatwaves and hunger riots  
 2073-2093: Mass migration
 
 By presenting us with a history of our time and identifying key periods and dates of 
@@ -150,30 +149,23 @@ which we cannot reach, or cannot let happen, borrowing from the literary codes o
 discovery and exploratory narratives, in the case of cosmic fiction; or from those of dystopian 
 and post-apocalyptic narratives, in the case of speculative fiction.
 
-[^1]:  Frédérique Aït-Touati, *Fictions of the Cosmos : Science and Literature in the Seventeenth Century* 
-(Chicago: University of Chicago Press, 2011).
+[^1]:  Frédérique Aït-Touati, *Fictions of the Cosmos : Science and Literature in the Seventeenth Century* (Chicago: University of Chicago Press, 2011).
 
 [^2]:  The term « anamorphosis » appeared in Gaspar Schott’s treatise on perspective 
-(*Magia universalis*, 1657-59). Beforehand, this pictorial device was designated by 
-various terms such as “curious perspective” (Niceron, 1638) and “multiple perspective.” 
-See J. Baltrusaitis, *Anamorphoses Ou Magie Artificielle Des Effets Merveilleux* 
-(Paris, 1969); and Simon Schaffer, “The Devices of Iconoclasm,” in *Iconoclash*, 
-edited by Bruno Latour and Peter Weibel (Cambridge, MA: MIT Press, 2002), 498-515.
+	(*Magia universalis*, 1657-59). Beforehand, this pictorial device was designated by 
+	various terms such as “curious perspective” (Niceron, 1638) and “multiple perspective.” 
+	See J. Baltrusaitis, *Anamorphoses Ou Magie Artificielle Des Effets Merveilleux* 
+	(Paris, 1969); and Simon Schaffer, “The Devices of Iconoclasm,” in *Iconoclash*, 
+	edited by Bruno Latour and Peter Weibel (Cambridge, MA: MIT Press, 2002), 498-515.
 
 [^3]:  Valérie Masson-Delmotte, *Climat: le vrai et le faux* (Paris: Le Pommier, 2011).
 
-[^4]:  Paul Edwards, *A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming* 
-(Cambridge, MA: The MIT Press, 2010).
+[^4]:  Paul Edwards, *A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming*  (Cambridge, MA: The MIT Press, 2010).
 
-[^5]:  Lorraine Daston and Elizabeth Lunbeck, ed. *Histories of Scientific Observation* 
-(Chicago: University of Chicago Press, 2011); Lorraine Daston and Peter Galison, 
-*Objectivity* (Cambridge, MA: Zone Books, 2007). 
+[^5]:  Lorraine Daston and Elizabeth Lunbeck, ed. *Histories of Scientific Observation* (Chicago: University of Chicago Press, 2011); Lorraine Daston and Peter Galison, *Objectivity* (Cambridge, MA: Zone Books, 2007). 
 
-[^6]:  Naomi Oreskes and Eric Conway, *The Collapse of Western Civilization: A View from the Future* 
-(New York: Columbia University Press, 2014).
+[^6]:  Naomi Oreskes and Eric Conway, *The Collapse of Western Civilization: A View from the Future* (New York: Columbia University Press, 2014).
 
 [^7]: See in particular Naomi Oreskes and Erik Conway, *Merchants of Doubt* (New York: Bloomsbury Press, 2010). 
 
-[^8]: This question appears at the end of the opening paragraph of *The Collapse of Western Civiliaztion* 
-in the French edition, but is rendered more declaratively in English (p.2): « Indeed, the most startling 
-aspect of this story is just how much these people knew, and how unable they were to act upon what they knew. »
+[^8]: This question appears at the end of the opening paragraph of *The Collapse of Western Civiliaztion* in the French edition, but is rendered more declaratively in English (p.2): « Indeed, the most startling aspect of this story is just how much these people knew, and how unable they were to act upon what they knew. »
