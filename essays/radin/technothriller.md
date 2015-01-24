@@ -60,6 +60,7 @@ Crichton’s stories are philosophical and polemical, asking time and
 again how it is that humans who struggle understand each other in the
 most banal ways can be so confident in their ability to master nature.
 
+<figure>
 ![](/images/Radin-MedSchool.jpg)
 
 <figcaption>
@@ -67,6 +68,7 @@ Crichton at his desk during his time at Harvard Medical School.
 His 1969 “Edgar” award for *A Case of Need* sits nearby. (Julian Brown
 for The Boston Globe / 1969 file [[source](http://www.boston.com/bostonglobe/obituaries/articles/2008/11/06/michael_crichton_66_wrote_jurassic_park_created_er/?page=full)].
 </figcaption>
+</figure>
 
 Becoming a writer was, he said in his [1988
 autobiography](http://www.michaelcrichton.net/books-travels.html), “his
@@ -154,6 +156,7 @@ possible—heightening the thrill. The plausibility of his account was
 meant to leave people in a perpetual state of suspense, a nightmare-like
 trance that might not be that different from being awake.
 
+<figure>
 ![](/images/Radin-Andromeda.jpg)
 
 <figcaption>
@@ -161,6 +164,7 @@ Screen shot of [Andromeda Strain movie
 trailer](https://www.youtube.com/watch?v=8qEsqjJAY-k) (Universal
 Pictures, 1971).
 </figcaption>
+</figure>
 
 In the years the followed, both the phrase and the concept of an
 [“Andromeda strain”](https://books.google.com/books?isbn=1134584466)

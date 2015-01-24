@@ -19,12 +19,14 @@ before members of the Cryonics Society of California transferred it to a
 “cryo-capsule” – a giant dewar filled with liquid nitrogen fabricated by
 a Phoenix-based wig-maker – for transfer to storage center in Arizona.
 
+<figure>
 ![](/images/McCray-Alcor.jpg)
 
 <figcaption>Dewars at the Alcor Life Extension Foundation in
 Scottsdale, Arizona. Each of these can hold four wholebody patients.
 (Photo courtesy of Alcor Life Extension Foundation.)
 </figcaption>
+</figure>
 
 Doctors at UCLA branded the experiment “absurd” but, not surprisingly,
 it received wide press coverage. Advocates claimed, given cryonics’

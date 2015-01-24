@@ -23,6 +23,7 @@ future of language in the aftermath of nuclear war, guided by both the
 imaginative novels of the past and the contemporary theories of
 linguists that were deployed (explicitly or implicitly) in them.
 
+<figure>
 ![](/images/Gordin-Mushroom.png)
 
 <figcaption>
@@ -30,6 +31,7 @@ A visual schema of the convection currents of a nuclear
 mushroom cloud, a much easier and more predictable rendering than
 figuring how to talk about what happens outside and after the cloud.
 </figcaption>
+</figure>
 
 Before delving into that, I need to clarify what we mean by the
 “beginning of the Nuclear Age,” since how one defines beginnings often

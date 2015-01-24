@@ -16,11 +16,13 @@ what Jean and John Comaroff have called the “phantom history” of the
 undead.[^2] Yet when one allows one’s self the liberty of such
 distractions, one cannot fail to observe the swarming undead of the Raj.
 
+<figure>
 ![](/images/Mukharji-Indrajal.jpg)
 
 <figcaption>
 An illustration accompanying an undated but published Bengali collection of spells for raising the dead. The illustration is copied from a woodcut published by the English Swedenborgian, Ebenezer Sibly, in 1784. The illustration originally depicted the sixteenth century alchemists, Edward Kelley and John Dee, raising the dead. The Bengali collection makes no reference to any of the English figures, but reproduces their spells and incantations in English. The collection possibly dates from the first decade of the twentieth century.
 </figcaption>
+</figure>
 
 Nowhere were these undead more legion than in British Bengal that formed
 the cornerstone of the empire. The Bengali undead however, were not the

@@ -44,13 +44,14 @@ revitalize the movement.
 
 **Ferguson is the Future**
 
+<figure>
 ![](/images/Benjamin-1.jpg)
 
 <figcaption> 
 Fig 1. Photo published in the *Ferguson Freedom Textbook* (3rd
 edition, 2030).<br> (Source: Paul Sableman/Flickr)
 </figcaption>
-
+</figure>
 
 **reGeneration (2064)**
 
@@ -161,12 +162,13 @@ driving, breathing out of place. Suspects’ phones, wallets, and other
 objects mistaken for weapons, police reaching for firearms instead of
 non-lethal options, and recordings rarely leading to indictment.
 
+<figure>
 ![](/images/Benjamin-2.png)
 
 <figcaption> Fig 2. Search Results from the *Ferguson Freedom Textbook*
 Supplemental Database. (Source: National Commission on Police Brutality, created by the Reparations Act of 2025)
 </figcaption>
-
+</figure>
 
 
 Not to mention all the residual violence—bystanders dying of shock or
@@ -174,13 +176,14 @@ heart failure, onlookers waking up in night terrors for years afterward,
 the chronic stress of living under siege, getting under the skin.
 Cellular memory, Social amnesia.
 
+<figure>
 ![](/images/Benjamin-3.png)
 
 <figcaption> Fig 3. Image from the People’s Science bioReparations Awareness Campaign: The advertisement voice over urges, “Our ancestors fueled the New World economy, just as mitochondria power the cellular body.
 Harnessing our history, transforming the biopolity! Come in for a free
 consultation to see if *Middle Passage Mitochondria* is right for you.”
 </figcaption>
-
+</figure>
 
 By the time the public health establishment accepted it as the root
 cause of heart disease, hypertension, and other epidemics, everyday
@@ -197,6 +200,7 @@ you were just out of luck.
 We are still trying to figure out what to do with all those abandoned
 testing stations.
 
+<figure>
 ![](/images/Benjamin-4.jpg)
 
 <figcaption> Fig 4. Image from the *Ferguson Freedom Textbook*, depicting a once
@@ -204,7 +208,7 @@ operative genome testing station in Baltimore, Maryland. The “textbook”
 is an interdisciplinary curriculum adopted by schools nationwide.
 (Source: [www.urbanghostmedia.com](http://www.urbanghostmedia.com))
 </figcaption>
-
+</figure>
 
 The Keeper News exposé on “genome map forgeries” was the breaking point.
 The fact that people were buying knock-off maps just to get access to
@@ -237,12 +241,12 @@ Aiyana Mo’Nay Stanley Jones, killed by a Detroit SWAT Team in 2010, was
 the only person who survived cryosleep and transplants without any
 significant side effects.
 
-
+<figure>
 ![](/images/Benjamin-5.jpg)
 
 <figcaption> Fig 5. Artist rendering of Aiyana Jones, currently hanging in the lobby of the People’s Science headquarters in Harlem, New York. (Source, Robert Pruitt, “Untitled 3”)
 </figcaption>
-
+</figure>	
 
 But she was a child at the time, 7 years old when an officer threw a
 flash grenade where she lay sleeping on her living room couch, and then

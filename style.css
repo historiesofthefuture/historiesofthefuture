@@ -354,14 +354,23 @@ font-size: 75%;
 vertical-align: super;
 }
 
+.essay_container figure {
+	display: table;
+	margin: 0 auto 2em auto;
+}
+
+
+.essay_container figcaption {
+	display:table-caption;
+	caption-side:bottom;
+}
+
 .essay_container figcaption p, .essay_container p.caption {
 	font-size: 80%;
 	color: #888;
 	line-height: 1.3em;
 	font-family: 'Open Sans';
 	margin: 0em 0 2em 0;
-	padding-left:1.5em;
-	padding-right: .5em; 
 }
 
 .essay_container figure p {

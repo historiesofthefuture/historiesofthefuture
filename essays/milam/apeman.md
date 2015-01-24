@@ -46,9 +46,7 @@ as Apollo 11’s landing capsule settled onto the surface of the moon on
 20 July 1969 and listened intently as Neil Armstrong intoned through
 gentle static… “[That’s one small step for man, one giant leap for
 mankind](http://www.youtube.com/watch?v=Z9WDsgCIroE).” The emotional
-investment in the Space Race emerged as a function, too, of the [growing
-stockpiles](http://blog.nuclearsecrecy.com/2012/05/11/friday-image-visualizing-the-stockpile/)
-of nuclear weapons and fears that the Cold War might turn hot.[^2]
+investment in the Space Race emerged as a function, too, of the [growing stockpiles](http://blog.nuclearsecrecy.com/2012/05/11/friday-image-visualizing-the-stockpile/) of nuclear weapons and fears that the Cold War might turn hot.[^2]
 Humanists and scientists alike reasoned that the world they now
 inhabited operated according to a new — and therefore confusing — logic.
 
@@ -105,16 +103,7 @@ future of humanity is always in the process of becoming (to paraphrase
 Osgood’s hopeful sentiment from the opening of *An Alternative to War
 and Surrender*).
 
-![](/images/Milam-Paleofantasy.jpg)
-
-<figcaption>
-When *The Chronicle Review* published an excerpt of Marlene Zuk’s *Paleofantasy* (February 22, 2013), they chose as their cover image a still of buxom Raquel Welch starring in the campy [*One Million Years B.C.*](https://www.youtube.com/watch?v=gSYmJur0Npw), released in 1966.
-Clad in her fur bikini, she provides a sunny contrast to the
-contemplative, hirsute, and naked “Apeman” on the cover of Leon Stover
-and Harry Harrison’s edited collection of anthropological science
-fiction—*Apeman, Spaceman* (New York: Doubleday & Company, Inc.,
-1968).
-</figcaption>
+{% include figure.html src='/images/Milam-Paleofantasy.jpg' caption="When *The Chronicle Review* published an excerpt of Marlene Zuk’s *Paleofantasy* (February 22, 2013), they chose as their cover image a still of buxom Raquel Welch starring in the campy [*One Million Years B.C.*](https://www.youtube.com/watch?v=gSYmJur0Npw), released in 1966. Clad in her fur bikini, she provides a sunny contrast to the contemplative, hirsute, and naked \"Apeman\" on the cover of Leon Stover and Harry Harrison’s edited collection of anthropological science fiction—*Apeman, Spaceman* (New York: Doubleday & Company, Inc., 1968)." %}
 
 When George Orwell penned his anti-totalitarian dystopia*—Nineteen
 Eighty-Four: A Novel*—he placed the following motto in the hands of the

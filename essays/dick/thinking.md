@@ -43,13 +43,14 @@ imagining a computer-inclusive vision for the future of mathematics,
 McCune and his colleagues forged quite new meanings of “reasoning”
 itself.
 
+<figure>
 ![](/images/Dick-Automated.jpg)
 
 <figcaption>Cover Art for *Automated Reasoning: Introduction
 and* *Applications*, authored by L. Wos, R. Overbook, E. Lusk, J.
 Boyle from the Argonne National Laboratory, 1984.]
 </figcaption>
-
+</figure>
 
 **A Glimpse of the Past**
 

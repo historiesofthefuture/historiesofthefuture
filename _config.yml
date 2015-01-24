@@ -4,3 +4,4 @@ safe: true
 markdown: kramdown
 kramdown: 
   parse_block_html: true
+  remove_block_html_tags: false
