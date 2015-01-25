@@ -414,7 +414,7 @@ vertical-align: super;
 	border-bottom: 2px dashed gray;
 	color:#333;
 	margin-top:1em;
-
+clear:both;
 }
 
 .themes h2 {
@@ -536,7 +536,7 @@ border-bottom: 3px solid gray;
 
 .logistics {
 font-family: 'Open Sans', serif;
-max-width:800px;
+max-width:600px;
 }
 
 .date {
