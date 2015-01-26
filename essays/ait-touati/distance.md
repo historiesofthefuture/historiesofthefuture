@@ -133,8 +133,7 @@ convincing, evidential tools have failed.
 The book also raises questions on the writing of history, the role of the social sciences, 
 and their profitable, explosive, and ultimately necessary association with art and literature. 
 On reaching the end of his research, the historian of 2393 finally acquires an answer to his 
-opening question: “Why, when it was possible to take preventative measures, did humanity not 
-have the appropriate reaction?”[^8]  Denial and optimism were among the many factors that 
+earlier conundrum: “It is difficult to understand why humans did not respond appropriately in the early Penumbral Period,  when pre­ventive measures were still possible.”[^8]  Denial and optimism were among the many factors that 
 converged to cause the tragedy, future historians explain. 
 
 Whether through a displacement in space (the cosmological narrative) or a displacement in 
@@ -168,4 +167,4 @@ and post-apocalyptic narratives, in the case of speculative fiction.
 
 [^7]: See in particular Naomi Oreskes and Erik Conway, *Merchants of Doubt* (New York: Bloomsbury Press, 2010). 
 
-[^8]: This question appears at the end of the opening paragraph of *The Collapse of Western Civiliaztion* in the French edition, but is rendered more declaratively in English (p.2): « Indeed, the most startling aspect of this story is just how much these people knew, and how unable they were to act upon what they knew. »
+[^8]: Oreskes and Conway, *The Collapse of Western Civilization*, 13-14.
