@@ -237,7 +237,7 @@ worlds that allow explorations of such complex questions, authors
 sometimes reference the linguistic background against which — and,
 sometimes, through which — the plot unfolds. My interest in these essays 
 is not the aspects of the books that make them “nuclear.” I simply want 
-to exploit fact that languages can only remain semi-standardized across 
+to exploit the fact that languages can only remain semi-standardized across 
 broad distances with the constant support of an elaborate infrastructure 
 (an educational system, commerce between urban centers, media, etc.). 
 To imagine a world where those infrastructures break down, we need something 
