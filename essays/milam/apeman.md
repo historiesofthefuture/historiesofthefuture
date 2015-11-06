@@ -72,12 +72,12 @@ Aggression*.[^4] In it he suggested that humans lacked an evolved
 capacity for reckoning with our newfound capacity to kill at a distance
 with the aid of missiles and bombs. True predators (with dangerous
 physical adaptations like the claws and sharp teeth of carnivores)
-rarely killed each other in male-male contests. When two tom-cats fight,
-he observed, the loser can signal his defeat, abandon the fight, and run
+rarely killed each other in male-male contests. When two dogs fight,
+for example, the loser can signal his defeat, abandon the fight, and run
 away—potentially injured but alive. Doves, on the other hand, don’t
 possess ritual submission gestures in their behavioral repertoire, so an
 aggressive dove might peck an unwanted cage-mate to death. For Lorenz,
-humans were more like doves than cats, and that made us incredibly
+humans were more like doves than dogs, and that made us incredibly
 dangerous. Worse, with new technologies like atomic bombs, antagonists
 never faced each other and so would not be able to signal cues of
 submission even if humans had them. Yet again, our technological future
