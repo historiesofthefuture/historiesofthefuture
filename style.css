@@ -80,19 +80,14 @@ p.back {
 	text-transform: uppercase;
 	font-size: 100%;
 	font-family: 'Open Sans';
-	margin-top: 4em;
+	margin: 1em 0 0em 0;
 	text-align: center;
 }
 
 p.back i {
-	margin-right: 1em;
+	margin-right: .5em;
 }
 
-p.colophon {
-	text-align: center;
-	margin-top:1em;
-	font-size: 120%;
-}
 
 
 .center {
@@ -148,6 +143,7 @@ background-color: #6C859A;
 color: #EFEBE6;
 padding:.5em 0 .5em 0;
 margin-top:-40px;
+margin-bottom: 1.5em;
 }
 
 h1.one {
@@ -225,7 +221,6 @@ color: white;
 	font-size: 160%;
 	text-transform: uppercase;
 	padding: .5em .5em .1em 0em;
-	border-bottom: 5px solid #ADC0C7;
 	text-align: left;
 	color:#8E6A78;
 }
@@ -234,14 +229,12 @@ color: white;
 }
 
 .essay_blk_container {
+	min-height: 250px;
 	color: #333333;
 	padding:0em;
-	margin: 1em auto 4em 12px;
+	margin: .5em auto 4em auto;
 	clear:both;
-	max-width:700px;
 	border:1px dotted gray;
-	min-height: 300px;
-	background: #E8EBEA;
 	background: #EFEBE6;
 }
 
@@ -259,7 +252,7 @@ color: white;
 	font-size: 160%;
 	line-height: 1.5em;
 	font-family: 'Oswald', serif;
-	margin: .2em 2em .2em 12px;
+	margin: .5em 2em .2em 12px;
 }
 
 
@@ -279,7 +272,7 @@ margin: 1em 2em .5em 0em;
 .essay_blk_container img {
 	width:250px;
 	height:250px;
-	margin:12px 12px 12px 12px;
+	margin:0px 1.5em 0 0;
 	float:left;
 }
 
@@ -287,7 +280,7 @@ margin: 1em 2em .5em 0em;
 	font-size: 90%;
 	line-height: 1.4em;
 	font-family: 'Open Sans', serif;
-	margin: 1em 1em 1em 12px;
+	margin: 1.5em 2em 1em 12px;
 	text-align: justify;
 }
 
@@ -396,6 +389,13 @@ vertical-align: super;
 .footnotes ol {
 	font-size: 90%;
 	list-style-type: decimal;
+}
+
+p.colophon {
+	text-align: center;
+	margin-top:1em;
+	margin-bottom:4em;
+	font-size: 120%;
 }
 
 

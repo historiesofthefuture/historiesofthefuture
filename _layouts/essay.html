@@ -28,8 +28,16 @@ $( document ).ready(function() {
 
 	<p class="colophon"><i class="fa fa-rocket"></i></p>
 
+	{% if page.next %}
+		<p class="back"><a href={{ page.next }} ><i class="fa fa-chevron-circle-right"></i>forward to next part</a></p>
+	{% endif %}
 
-	<p class="back"><a href="/essays/"><i class="fa fa-chevron-circle-left"></i>back to essays</a></p>
+	{% if page.previous %}
+		<p class="back"><a href={{ page.previous }} ><i class="fa fa-chevron-circle-left"></i>back to previous part</a></p>
+	{% endif %}
+
+
+	<p class="back"><a href="/essays/"><i class="fa fa-caret-square-o-left"></i>back to essays</a></p>
 
 
 </div> <!-- /container -->
