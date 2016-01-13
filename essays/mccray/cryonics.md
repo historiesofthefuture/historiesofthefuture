@@ -3,6 +3,7 @@ title: "Many Are Cold, Few Are Frozen"
 author: W. Patrick McCray
 layout: essay
 slug: cryonics
+next: "frozen-few"
 ---
 
 James Bedford’s words – “I’m feeling better” – would have been funny had

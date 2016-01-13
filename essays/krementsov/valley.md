@@ -3,6 +3,7 @@ title: "Between Science and Fiction"
 subtitle: "Fedor Il’in’s The Valley of New Life (1928)"
 author: Nikolai Krementsov
 layout: essay
+next: biotechnologies
 slug: valley
 ---
 

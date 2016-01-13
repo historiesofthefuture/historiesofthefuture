@@ -1,9 +1,11 @@
 ---
 title: "The Nuclear Novel and Language"
 author: Michael D. Gordin
+next: "universal-creole"
 layout: essay
 slug: languages
 ---
+
 Words fail us when it comes to talking about nuclear war. We can coin
 new terms (“megadeaths”), but in other aspects it seems that language
 itself breaks down. How can we discuss the impossibly long half-life of
@@ -169,8 +171,7 @@ Nevil Shute’s [*On the Beach*](https://books.google.com/books?id=p24G5ZeTfJUC&
 Pat Frank’s [*Alas, Babylon*](https://books.google.com/books?id=Fh9Bi3-09-cC&printsec=frontcover&dq=alas+babylon&hl=en&sa=X&ei=hvmiVIOSMMuoyATC6ICoAw&ved=0CCgQ6AEwAA#v=onepage&q=alas%20babylon&f=false) (1959), 
 Mordecai Roshwald’s [*Level 7*](http://uwpress.wisc.edu/books/3624.htm) (1959), 
 Whitley Strieber and James W. Kunetka’s [*Warday*](https://books.google.com/books?id=5__xRIfVzfEC&q=warday+kunetka&dq=warday+kunetka&hl=en&sa=X&ei=rvuiVIScMommyQTi6oGADg&ved=0CB0Q6AEwAA) (1985), 
-and Cormac McCarthy’s [*The Road*](http://www.randomhouse.com/book/110490/the-road-by-cormac-mccarthy/9780307472120/)
-(2006).
+and Cormac McCarthy’s [*The Road*](http://www.randomhouse.com/book/110490/the-road-by-cormac-mccarthy/9780307472120/) (2006).
 
 c\) *Sepia*: Nuclear war is long past, but not forgotten. A few
 generations (say, 25 to 75 years) have gone by, but there are those
@@ -178,14 +179,10 @@ alive who remember what the world was like before the cataclysm, or at
 least who have heard about it firsthand from survivors. The antediluvian
 world has shifted into a haze of nostalgia or condemnation, and
 individuals attempt to piece together a new world rather than save the
-old. This is a very large genre, including Leigh Brackett’s [*The Long 
+old. This is a very large genre, including Leigh Brackett’s [*The Long
 Tomorrow*](http://yellowedandcreased.wordpress.com/2011/07/15/the-long-tomorrow-leigh-brackett/)
-(1955), Kim Stanley Robinson’s [*The Wild 
-Shore*](http://www.kimstanleyrobinson.info/index.php?option=com_content&view=article&id=58)
-(1984), and David Brin’s [*The Postman*](http://www.randomhouse.com/book/18362/the-postman-by-david-brin)
-(1985), and Denis Johnson’s
-[*Fiskadoro*](http://www.harpercollins.com/9780060976095/fiskadoro)
-(1985). 
+(1955), Kim Stanley Robinson’s [*The Wild Shore*](http://www.kimstanleyrobinson.info/index.php?option=com_content&view=article&id=58) (1984), and David Brin’s [*The Postman*](http://www.randomhouse.com/book/18362/the-postman-by-david-brin)
+(1985), Denis Johnson’s [*Fiskadoro*](http://www.harpercollins.com/9780060976095/fiskadoro) (1985).
 
 d\) *Epic*: These novels explore the *longue durée*, typically a few
 hundred to a few thousand years after thermonuclear war, when
@@ -234,19 +231,15 @@ structures of contemporary civilization?*
 These are fascinating themes, no question, and the novels in question
 discuss these directly and indirectly in profound ways. In creating
 worlds that allow explorations of such complex questions, authors
-sometimes reference the linguistic background against which — and,
-sometimes, through which — the plot unfolds. My interest in these essays 
-is not the aspects of the books that make them “nuclear.” I simply want 
+sometimes reference the linguistic background against which - and sometimes, through which — the plot unfolds. My interest in these essays is not the aspects of the books that make them “nuclear.” I simply want 
 to exploit the fact that languages can only remain semi-standardized across 
 broad distances with the constant support of an elaborate infrastructure 
 (an educational system, commerce between urban centers, media, etc.). 
 To imagine a world where those infrastructures break down, we need something 
 massive, and massively destructive. Nuclear war fits the bill. This is *my* 
 central concern; it is not usually that of the authors. In these novels, 
-if language comes up explicitly, it is often casually, as an afterthought. In this, it is
-almost like the earlobes and cufflinks in a classic oil painting, to use
-the analogy described in a classic essay by [Carlo
-Ginzburg](https://jhupbooks.press.jhu.edu/content/clues-myths-and-historical-method):
+if language comes up explicitly, it is often casually, as an afterthought. In this, it isalmost like the earlobes and cufflinks in a classic oil painting, to use
+the analogy described in a classic essay by [Carlo Ginzburg](https://jhupbooks.press.jhu.edu/content/clues-myths-and-historical-method):
 a telltale sign where the author’s views are expressed nakedly,
 precisely because they are less deliberate. This allows me to explore
 how the theories developed within the science of linguistics of the day

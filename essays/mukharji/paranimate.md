@@ -3,6 +3,7 @@ title: "Paranimate Science"
 author: Projit Mukharji
 layout: essay
 slug: paranimate
+next: biomoral
 ---
 
 South Asianists never speak of the undead. Africanists do. Latin
