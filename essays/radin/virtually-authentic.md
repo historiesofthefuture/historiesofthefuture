@@ -3,8 +3,8 @@ title: "Virtually Authentic"
 subtitle: "The Themes of Michael Crichton’s Parks"
 author: Joanna Radin
 layout: essay
-slug: virtually-authentic
-previous:technothriller
+slug: "virtually-authentic"
+previous: technothriller
 ---
 
 In June of 2015 *Jurassic World*, the fourth installment of the movie

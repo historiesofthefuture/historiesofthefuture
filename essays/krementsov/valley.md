@@ -1,6 +1,5 @@
 ---
-title: "Between Science and Fiction"
-subtitle: "Fedor Il’in’s The Valley of New Life (1928)"
+title: "Fedor Il’in’s The Valley of New Life (1928)"
 author: Nikolai Krementsov
 layout: essay
 next: biotechnologies
@@ -196,7 +195,6 @@ these anxieties that Russian post-revolutionary SF literature attempted
 to investigate, and Il’in’s *Valley of New Live* undoubtedly was one of
 such attempts.
 
-[*To be continued*]
 
 [^1]: Teo Eli, *Dolina novoi zhizni* (Moscow: Krug, 1928).
 

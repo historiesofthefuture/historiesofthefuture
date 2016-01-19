@@ -1,9 +1,9 @@
 ---
-title: "Big Science Fiction"
-subtitle: "Michael Crichton, Science Studies, and the Technothriller"
+title: "Michael Crichton, Science Studies, and the Technothriller"
 author: Joanna Radin
 layout: essay
 slug: technothriller
+next: virtually-authentic
 ---
 
 <div class="center">
