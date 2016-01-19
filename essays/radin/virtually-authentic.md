@@ -3,7 +3,7 @@ title: "Virtually Authentic"
 subtitle: "The Themes of Michael Crichton’s Parks"
 author: Joanna Radin
 layout: essay
-slug: "virtually-authentic"
+slug: virtually-authentic
 previous: technothriller
 ---
 
