@@ -181,71 +181,48 @@ involved both the rethinking of ‘life’ and the ‘science’ suitable for
 knowledge of such ‘life’. Of ‘life’ Aurobindo wrote, offering a poetic
 interpretation of the works of his teacher:
 
-<blockquote>
-Life, death, — death, life; the words have led for ages
 
-Our thought and consciousness and firmly seemed
+> Life, death, — death, life; the words have led for ages
+> Our thought and consciousness and firmly seemed
+> Two opposites; but now long-hidden pages
+> Are opened, liberating truths undreamed.
+> Life only is, or death is life disguised, —
+> Life a short death until by life we are surprised
 
-Two opposites; but now long-hidden pages
+> This more capacious notion of life, despite being strung together by a
+> shared spirit, included within it a bewildering diversity of forms.
 
-Are opened, liberating truths undreamed.
+> I saw my soul a traveller through Time;
+> From life to life the cosmic ways it trod,
+> Obscure in the depths and on the heights sublime,
+> Evolving from the worm into the god.
 
-Life only is, or death is life disguised, —
+> ‘Science’ as we knew it, according to Aurobindo could not fathom this
+> more capacious and diversified notion of ‘life’.
 
-Life a short death until by life we are surprised
-</blockquote>
+> This was the secret Science could not see;
+> Aware of death, to life her eyes were blind.
 
-This more capacious notion of life, despite being strung together by a
-shared spirit, included within it a bewildering diversity of forms.
+> …
 
-<blockquote>
-I saw my soul a traveller through Time;
+> The organ for the thing itself she takes,
+> The brain for mind, the body for the soul,
+> Nor has she patience to explore the whole,
+> But like a child a hasty period makes.
 
-From life to life the cosmic ways it trod,
+> In a poem titled *A Vision of Science* Aurobindo insinuated a new,
+> future ‘science’ which would transcend the divide between ‘science’ and
+> ‘religion’ and be able to make manifest a more fulsome picture of the
+> enspirited cosmos:
 
-Obscure in the depths and on the heights sublime,
+> I dreamed that in myself the world I saw,
+> Wherein three Angels strove for mastery
 
-Evolving from the worm into the god.
-</blockquote>
+> …
 
-‘Science’ as we knew it, according to Aurobindo could not fathom this
-more capacious and diversified notion of ‘life’.
+> Science was one, the other gave her name, Religion.
+> But a third behind them came,
+> Veiled, vague, remote, and had as yet no right
+> Upon the world, but lived in her own light.
 
-<blockquote>
-This was the secret Science could not see;
-
-Aware of death, to life her eyes were blind.
-
-…
-
-The organ for the thing itself she takes,
-
-The brain for mind, the body for the soul,
-
-Nor has she patience to explore the whole,
-
-But like a child a hasty period makes.
-</blockquote>
-
-In a poem titled *A Vision of Science* Aurobindo insinuated a new,
-future ‘science’ which would transcend the divide between ‘science’ and
-‘religion’ and be able to make manifest a more fulsome picture of the
-enspirited cosmos:
-
-<blockquote>
-I dreamed that in myself the world I saw,
-
-Wherein three Angels strove for mastery
-
-…
-
-Science was one, the other gave her name, Religion.
-
-But a third behind them came,
-
-Veiled, vague, remote, and had as yet no right
-
-Upon the world, but lived in her own light.
-</blockquote>
-
-Paranimate science was the wisdom of the Third Angel.
+> Paranimate science was the wisdom of the Third Angel.
