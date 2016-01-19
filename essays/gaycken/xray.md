@@ -6,7 +6,7 @@ layout: essay
 slug: xray
 ---
 
-**Part 1. The Horror of Seeing Too Well: Images of X-Ray Vision**
+**The Horror of Seeing Too Well: Images of X-Ray Vision**
 
 The reception of X rays during the first few years after their discovery
 in late 1895 provides a rich instance of the technological sublime.
