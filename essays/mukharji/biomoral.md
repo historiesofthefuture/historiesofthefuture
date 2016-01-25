@@ -189,16 +189,16 @@ interpretation of the works of his teacher:
 > Life only is, or death is life disguised, —
 > Life a short death until by life we are surprised
 
-> This more capacious notion of life, despite being strung together by a
-> shared spirit, included within it a bewildering diversity of forms.
+This more capacious notion of life, despite being strung together by a
+shared spirit, included within it a bewildering diversity of forms.
 
 > I saw my soul a traveller through Time;
 > From life to life the cosmic ways it trod,
 > Obscure in the depths and on the heights sublime,
 > Evolving from the worm into the god.
 
-> ‘Science’ as we knew it, according to Aurobindo could not fathom this
-> more capacious and diversified notion of ‘life’.
+‘Science’ as we knew it, according to Aurobindo could not fathom this
+more capacious and diversified notion of ‘life’.
 
 > This was the secret Science could not see;
 > Aware of death, to life her eyes were blind.
@@ -210,10 +210,10 @@ interpretation of the works of his teacher:
 > Nor has she patience to explore the whole,
 > But like a child a hasty period makes.
 
-> In a poem titled *A Vision of Science* Aurobindo insinuated a new,
-> future ‘science’ which would transcend the divide between ‘science’ and
-> ‘religion’ and be able to make manifest a more fulsome picture of the
-> enspirited cosmos:
+In a poem titled *A Vision of Science* Aurobindo insinuated a new,
+future ‘science’ which would transcend the divide between ‘science’ and
+‘religion’ and be able to make manifest a more fulsome picture of the
+enspirited cosmos:
 
 > I dreamed that in myself the world I saw,
 > Wherein three Angels strove for mastery
@@ -225,4 +225,4 @@ interpretation of the works of his teacher:
 > Veiled, vague, remote, and had as yet no right
 > Upon the world, but lived in her own light.
 
-> Paranimate science was the wisdom of the Third Angel.
+Paranimate science was the wisdom of the Third Angel.
