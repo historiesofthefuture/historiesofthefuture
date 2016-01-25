@@ -14,7 +14,8 @@ next: virtually-authentic
 
 <p>“Science fiction, which once frightened because it seemed so far-out, now frightens because it seems so near. The <em>Andromeda Strain</em> is as matter-of-fact as the skull-and-crossbones instructions on a bottle of poison—and just as chillingly effective”</p>
 
-- Life[^1]
+<p>- Life[^1]</p>
+
 </div>
 
 ---
