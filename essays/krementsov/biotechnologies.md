@@ -234,9 +234,6 @@ monograph, not to mention Kazhinskii’s and Lazarev’s treatises. How then
 could he possibly learn of their studies on telepathy to render their
 results and promises in his novel?
 
-**3. From Science to Fiction via Mass Media**
-
-\[*To be continued*\]
 
 [^1]: M. M. Zavadovskii, *Pol i razvitie ego priznakov* (Moscow: GIZ,
     1922), 235.
