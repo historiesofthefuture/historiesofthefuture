@@ -23,7 +23,12 @@ park. In train stations in Berlin and Paris, announcements that the
 dinosaurs had arrived were posted along side updates of train times
 announcing, “The Park is Now Open.”
 
-\[Image 1 – Berlin Subway\]
+<figure>
+![](/images/Radin-2-1.png)
+
+<figcaption>_Jurassic World_ advertisement at the Hermannplatz subway station in Berlin
+</figcaption>
+</figure>
 
 With *Jurassic World*—and its marketing campaign—we learn that the
 ability to stand beside our no-longer extinct brethren may be the most
@@ -56,7 +61,13 @@ In 2015, InGen’s corporate slogan declared, “Tomorrow. Today.” It was
 persuasive. I was tempted to believe in the reality of InGen and its
 vision. I could even take up virtual (if unpaid) employment.
 
-\[Image 2: InGen ID card\]
+<figure>
+![](/images/Radin-2-2.png)
+
+<figcaption> InGen ID card
+</figcaption>
+</figure>
+
 
 The viral campaign did not stop there. Not only were the potential
 unintended consequences of the virtual laboratory addressed and
@@ -167,7 +178,13 @@ oil—Mobil’s source of wealth—is mined and processed from organic
 material that has been stewing in the earth’s crust since the Jurassic
 period.
 
-\[Image 3: Science Gone Amok/Cradle Science\]
+<figure>
+![](/images/Radin-2-3.png)
+
+<figcaption>Science Gone Amok/Cradle Science
+</figcaption>
+</figure>
+
 
 In 1999 Crichton was asked to speak to the members of the American
 Association for the Advancement of Science (AAAS) about the purported
@@ -214,18 +231,6 @@ and businessmen become benefactors and we take pleasure, comfort, and
 health from the byproducts. Our world is *Jurassic World,* and its
 boundaries stretch far beyond the cinema.
 
-Image 1: *Jurassic World* advertisement at the Hermannplatz subway
-station in Berlin
-
-![](media/image1.png)
-
-Image 2: InGen ID card
-
-![](media/image2.png)
-
-Image 3: New York Times critique and Mobil “public service announcement”
-
-![](media/image3.png)
 
 [^1]: Frank <span id="_ENREF_1" class="anchor"></span>Rose, *The Art of
     Immersion* (New York: W.W. Norton, 2011).
