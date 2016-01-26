@@ -24,8 +24,8 @@ imagination in the 1980s.
 A decade earlier, organizations like the Life Extension Society, the
 Cryonics Institute, and the Alcor Society had sprung up to meet the
 wishes of a small group of people – call them the frozen few – who
-wanted to have their bodies frozen after their passing. **{link to my
-first essay}** But cryonicists rested their hopes on some very vague
+wanted to have their bodies frozen after their passing (see ["Many Are Cold, Few Are Frozen"](http://histscifi.com/essays/mccray/cryonics.html)).  
+But cryonicists rested their hopes on some very vague
 assumptions about the future. Less a resurrection strategy, theirs was
 an attempt to redefine death until medical science could cure what ailed
 them.
@@ -93,7 +93,7 @@ the next several years, almost every issue of *Cryonics* carried some
 mention of Drexler and nanotechnology.
 
 In May 1985, some 60 people from the U.S. and overseas traveled to Lake
-Tahoe for the 4^th^ Life Extension Festival. After listening to
+Tahoe for the 4th Life Extension Festival. After listening to
 presentations with titles like “Why Keep Living?” and “Heat Flow in the
 Cryonic Suspension of Humans,” Drexler delivered a much-anticipated talk
 he called “Molecular Technology and Cell Repair Machines.”[^4]
@@ -110,7 +110,7 @@ future. As one reader told *Cryonics*, “Having read K. Eric Drexler’s
 book, *Engines of Creation*, my wife Carol and have decided to become
 full Alcor members.”[^5]
 
-Alcor’s own [data](http://www.alcor.org/Library/html/stats-members.html) supports this. For much of the late 1970s and into the mid-1980s, the number of “suspension members” – people who had signed up to be cryo-preserved – flat-lined. A [noticeable revival](http://www.alcor.org/AboutAlcor/membershipstats.html) in membership occurred around 1986, the timing of which coincides with the appearance of Drexler’s *Engines* and his successful popularization of nanotechnology. 
+Alcor’s own [data](http://www.alcor.org/Library/html/stats-members.html) supports this. For much of the late 1970s and into the mid-1980s, the number of “suspension members” (people who had signed up to be cryo-preserved) flat-lined. A [noticeable revival](http://www.alcor.org/AboutAlcor/membershipstats.html) in membership occurred around 1986, the timing of which coincides with the appearance of Drexler’s *Engines* and his successful popularization of nanotechnology. 
 
 Drexlerian nanotechnology remained popular with cryonics enthusiasts. A
 survey of Alcor members undertaken in 1988 provides some rough
