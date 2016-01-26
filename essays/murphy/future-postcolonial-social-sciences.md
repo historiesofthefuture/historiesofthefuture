@@ -7,10 +7,6 @@ slug: "future-postcolonial-social-sciences"
 previous: dream
 ---
 
-=======================================================================================
-
-Michelle Murphy
-
 How does technoscience dream? How might technical practices that bring
 into apprehension a world that is not yet here, and may never come to
 pass, be thought of as a kind of technoscientific dreaming? Beyond
@@ -84,13 +80,13 @@ to the work of feeling futures and apprehending intangibilities that
 technoscience also accomplishes.
 
 To think about a technoscience that dreams, it is helpful to turn to
-Walter Benjamin, who, writing about the modernity of 19^th^ century
+Walter Benjamin, who, writing about the modernity of 19th century
 Paris, described the
 [“phantasmagoria”](http://www.museudelcinema.cat/eng/colleccio_recursos.php?idreg=1396)
 that commodity capitalism built into the materiality of shopping arcades
 and consumer products.[^3]
-[Phantasmagoria](http://www.museudelcinema.cat/eng/colleccio_recursos.php?idreg=1396)
-was a form of European theatre in the late 18^th^ and 19^th^ centuries
+Phantasmagoria
+was a form of European theatre in the late 18th and 19th centuries
 that used a modified magic lantern to make projections of bizarre,
 fabulous, and often frightening spectres. Phantasmagoria thus served as
 a kind of “spectral technology” that projected imaginaries into the
@@ -106,11 +102,11 @@ that were profoundly entangled with the concreteness of things.
 
 In this spirit, speculation can be thought of as phantasma generating
 practices that for the past hundred years have offered a potent mode for
-orienting towards the future. While the phantasmagoria of the 19^th^
+orienting towards the future. While the phantasmagoria of the 19th
 century theatre had been associated primarily with gothic and horror
 performance, recent speculative phantasma are instead amorphous
 politically and emotionally. Moreover, while the phantasmagoria of the
-19^th^ century theatre were consciously created as illusions, I suggest
+19th century theatre were consciously created as illusions, I suggest
 that the phantasma of technocientific dreaming are decidedly not
 illusions, but rather constitutive of a world that includes felt and
 potent intangibles, a world in which technoscience dreaming – the
@@ -408,7 +404,7 @@ the keyboard is a printer that spits out results intermittently. In
 using FORTRAN with the [Carolina Population Center
 Family](http://www.cpc.unc.edu/aboutcpc/history) Planning Administrator
 Training Game that promises to train players in the arts of altering the
-future of a national population. [^19]
+future of a national population.[^19]
 
 The intended players are visiting civil servants involved in family
 planning programs in their home country. In this role playing game, a
@@ -712,21 +708,16 @@ phones, or access to primary schooling. The chain reaction just waits to
 be unleashed.
 
 The Girl Effect has become a potent phantasmagram, spreading to
-corporate responsibility campaigns of[
-Walmart](https://www.clintonfoundation.org/blog/2014/04/29/how-walmart-reimagining-its-investments-empower-girls-and-women),
+corporate responsibility campaigns of [Walmart](https://www.clintonfoundation.org/blog/2014/04/29/how-walmart-reimagining-its-investments-empower-girls-and-women),
 [Exxon](http://corporate.exxonmobil.com/en/community/womens-economic-opportunity/investing-in-women),
 and
 [Intel,](http://www.intel.com/content/www/us/en/technology-in-education/smart-girls-smart-world-video.html)
-shaping policy at the Gates Foundation, [the Clinton
-Foundation,](https://www.clintonfoundation.org/blog/authors/no-ceilings-full-participation-project)
+shaping policy at the Gates Foundation, [the Clinton Foundation,](https://www.clintonfoundation.org/blog/authors/no-ceilings-full-participation-project)
 the
 [UN](http://www.unfoundation.org/what-we-do/issues/women-and-population/investing-adolescent-girls.html),
-and even the office of the [US Secretary of
-State](http://www.state.gov/s/gwi/girls/). It is embraced by
+and even the office of the [US Secretary of State](http://www.state.gov/s/gwi/girls/). It is embraced by
 longstanding transnational NGOs like Plan and Care, as well as the
-biggest NGO in the world, BRAC, based in Bangladesh. A 2008 [marketing
-report by Goldman
-Sachs](http://www.goldmansachs.com/our-thinking/investing-in-women/bios-pdfs/women-half-sky-pdf.pdf)
+biggest NGO in the world, BRAC, based in Bangladesh. A 2008 [marketing report by Goldman Sachs](http://www.goldmansachs.com/our-thinking/investing-in-women/bios-pdfs/women-half-sky-pdf.pdf)
 echoes the findings of the World Bank and the Nike Foundation, reporting
 that investing in educating girls has a “growth premium” that at a
 macroeconomic level stimulates “higher productivity; higher
@@ -754,10 +745,9 @@ investment? Little is said in Girl Effect dreamscapes about the boys
 that are brothers to these investable girls. Poor brown boys do not
 often get aspirational speculative futures in this Western dreamscape of
 uncertain futures. Instead, they are more likely to be mentioned
-fearfully as sites of danger, [as incipient agents of
-violence](http://www.nytimes.com/2015/04/12/opinion/sunday/nicholas-kristof-smart-girls-vs-bombs.html?_r=0)
+fearfully as sites of danger, [as incipient agents of violence](http://www.nytimes.com/2015/04/12/opinion/sunday/nicholas-kristof-smart-girls-vs-bombs.html?_r=0)
 through the lens of foreign policy aimed at a war against the never
-ending potential of[ future terrorism. ](http://m.state.gov/mc36630.htm)
+ending potential of [future terrorism.](http://m.state.gov/mc36630.htm)
 
 Poor racialized girls living in postcolonial locals have perversely
 become iconic figures of speculation on which elite technocratic dreams
@@ -776,7 +766,7 @@ of Donna Haraway, Alondra Nelson, and Karen Barad. The feminist science
 studies scholar and biologist Banu Subramaniam brings affirmative
 speculation into the domain of science in her book *Ghost Stories for
 Darwin* in a way that echoes with the vision in *Sultana’s Dream*.
-Discussing her research on plant variation in both India and the US ,
+Discussing her research on plant variation in both India and the US,
 Subramaniam’s book includes the ghosts of past colonial, racist and
 sexist violence as active agents in contemporary science, and even
 further, includes dreams of a “futureworld of alternative science” for
@@ -795,7 +785,7 @@ conjures worlds with and through us.
 
 Whether in the early twentieth century speculative fiction of Sultana’s
 Dream, in the mid-century simulations of population control, or in the
-21rst century phantasma of the investable girl, technoscience helps to
+21st century phantasma of the investable girl, technoscience helps to
 miraculate the dreamscapes of intangible phenomena that we inhabit. To
 suggest that technoscience dreams is not meant to denigrate dreaming but
 to recognize intangible imaginaries and our attachments to them as one
@@ -825,7 +815,7 @@ these potentials not only in our futures, but in our pasts as well?
     Koselleck examines the relationships between past, present, and
     future in European thought.
 
-    He argues that until the 18^th^ century, European Christian
+    He argues that until the 18th century, European Christian
     temporality was shaped by a sense of continuity and sameness: today
     is like tomorrow, because time has moved according to external
     forces only interrupted at the end times, when the world will end.
@@ -855,13 +845,12 @@ these potentials not only in our futures, but in our pasts as well?
 [^4]: Terry Castle, “Phantasmagoria: Spectral Technology and the
     Metaphorics of Modern Reverie,” *Critical Inquiry* 15, no. 1
     (October 1, 1988): 26–61; Benjamin, *The Arcades Project*; Susan
-    Buck-Morss, *The Dialectics of Seeing: Walter Benjamin and the
-    Arcades Project*, Reprint (The MIT Press, 1991).
+    Buck-Morss, *The Dialectics of Seeing: Walter Benjamin and the Arcades Project*, Reprint (The MIT Press, 1991).
 
 [^5]: Uncertain Commons, *Speculate This!* (Durham: Duke University
     Press, 2013). Prospectus.
 
-[^6]: Uncertain Commons, Speculate *This!*.
+[^6]: Uncertain Commons, *Speculate This!*.
 
 [^7]: On Begum Rokeya Hossain’s feminism and “Sultana’s Dream,” See,
     Hasanat, Fayeza, “Sultana’s Utopian Awakening: An Ecocritical
@@ -896,7 +885,7 @@ these potentials not only in our futures, but in our pasts as well?
 [^13]: A classic example is Campanno’s City of the Sun. Utopian writing
     is often referred to as an act of dreaming, whether or not the story
     itself uses a dream trope explicitly. The English word dream has had
-    this sense of prophecy and hope for the future since the 17^th^
+    this sense of prophecy and hope for the future since the 17th
     century.
 
 [^14]: Nile Green, “The Religious and Cultural Roles of Dreams and
@@ -1050,5 +1039,5 @@ these potentials not only in our futures, but in our pasts as well?
 [^39]: Taking this argument to its further extension, it is politically
     possibly and even necessary to conjure other relations not only
     better, but bigger than capitalism. I make this argument through the
-    concept of *distributed reproduction* in the coda of The
-    Economization of Life (Duke University Press, forthcoming)
+    concept of *distributed reproduction* in the coda of *The 
+    Economization of Life* (Duke University Press, forthcoming).
