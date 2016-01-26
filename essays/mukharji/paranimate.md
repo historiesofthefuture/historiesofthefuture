@@ -1,5 +1,5 @@
 ---
-title: "Paranimate Science"
+title: "The Swarming Undead of the Raj"
 author: Projit Mukharji
 layout: essay
 slug: paranimate
