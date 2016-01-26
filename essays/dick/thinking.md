@@ -6,7 +6,6 @@ layout: essay
 slug: thinking
 ---
 
-**Part One: Reason**
 
 **A Glimpse of the Future**
 
