@@ -3,6 +3,7 @@ title: "The Universal Creole"
 author: Michael D. Gordin
 layout: essay
 previous: "languages"
+next: "englishs-atomic-mutants"
 slug: "universal-creole"
 ---
 
