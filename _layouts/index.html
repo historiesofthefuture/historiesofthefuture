@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+{% include header.html %} 
+
+<body style="background-color:#f9f9f9">
+
+<div class="essay_container">
+	<h1> {{ page.series }} </h1>
+	<h3> <a href="/people#{{page.author || replace:' ','_'}}">{{ page.author }} </a></h3>
+	
+	<ul class="essay_index">
+	{% if page.first %}
+		<li class="essay_index"><a href={{ page.first-slug }} >{{ page.first }} <i class="fa fa-chevron-circle-right"></i></a></li>
+	{% endif %}
+
+	{% if page.next %}
+		<li class="essay_index"><a href={{ page.next-slug }} >{{ page.next }} <i class="fa fa-chevron-circle-right"></i></a></li>
+	{% endif %}
+
+	{% if page.next2 %}
+		<li class="essay_index"><a href={{ page.next2-slug }} >{{ page.next2 }} <i class="fa fa-chevron-circle-right"></i></a></li>
+	{% endif %}
+
+	{% if page.last %}
+		<li class="essay_index"><a href={{ page.last-slug }} >{{ page.last }} <i class="fa fa-chevron-circle-right"></i></a></li>
+	{% endif %}
+
+	</ul>
+
+	<p class="back"><a href="/essays/"><i class="fa fa-caret-square-o-left"></i>back to essays</a></p>
+
+
+</div> <!-- /container -->
+
+</body>
+</html>
