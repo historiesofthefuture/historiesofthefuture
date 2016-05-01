@@ -341,7 +341,7 @@ including their names my hope is to not only commemorate their lives,
 but to open a space for these tragedies to hasten collective struggle
 for a more just future.
 
-*For the next installment of this story, see [Discover Society, Issue 21] (http://discoversociety.org/2015/06/03/black-to-the-future-in-memoriam/).*
+*For the next installment of this story, see [Discover Society, Issue 21](http://discoversociety.org/2015/06/03/black-to-the-future-in-memoriam/).*
 
 
 [^1]: The theme of regeneration throughout this story is directly
