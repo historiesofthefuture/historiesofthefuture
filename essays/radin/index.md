@@ -1,6 +1,6 @@
 ---
-title: "Johanna Radin Essays"
-author: Johanna Radin
+title: "Joanna Radin Essays"
+author: Joanna Radin
 series: Big Science Fiction
 first: Michael Crichton, Science Studies, and the Technothriller
 first-slug: technothriller
