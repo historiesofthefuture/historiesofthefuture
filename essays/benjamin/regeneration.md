@@ -341,7 +341,7 @@ including their names my hope is to not only commemorate their lives,
 but to open a space for these tragedies to hasten collective struggle
 for a more just future.
 
-*For the final version of this story, see Ruha Benjamin, "Racial Fictions, Biological Facts: Expanding the Sociological Imagination through Speculative Methods," Catalyst: Feminism, Theory, Technoscience 2/2 (2016): 1-28. [link](http://www.ruhabenjamin.com/a/wp-content/uploads/2016/12/2016-Racial-Fictions-Biological-Facts.pdf).*
+*For the final version of this story, see Ruha Benjamin, "Racial Fictions, Biological Facts: Expanding the Sociological Imagination through Speculative Methods," Catalyst: Feminism, Theory, Technoscience 2/2 (2016): 1-28. [Link](http://www.ruhabenjamin.com/a/wp-content/uploads/2016/12/2016-Racial-Fictions-Biological-Facts.pdf)*
 
 
 [^1]: The theme of regeneration throughout this story is directly
